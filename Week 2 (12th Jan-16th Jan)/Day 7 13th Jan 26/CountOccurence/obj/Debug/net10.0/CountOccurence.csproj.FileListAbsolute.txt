@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 7 13th Jan 26\CountOccurence\bin\Debug\net10.0\CountOccurence.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 7 13th Jan 26\CountOccurence\bin\Debug\net10.0\CountOccurence.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 7 13th Jan 26\CountOccurence\bin\Debug\net10.0\CountOccurence.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 7 13th Jan 26\CountOccurence\bin\Debug\net10.0\CountOccurence.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 7 13th Jan 26\CountOccurence\bin\Debug\net10.0\CountOccurence.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 7 13th Jan 26\CountOccurence\obj\Debug\net10.0\CountOccurence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 7 13th Jan 26\CountOccurence\obj\Debug\net10.0\CountOccurence.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 7 13th Jan 26\CountOccurence\obj\Debug\net10.0\CountOccurence.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 7 13th Jan 26\CountOccurence\obj\Debug\net10.0\CountOccurence.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 7 13th Jan 26\CountOccurence\obj\Debug\net10.0\CountOccurence.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 7 13th Jan 26\CountOccurence\obj\Debug\net10.0\refint\CountOccurence.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 7 13th Jan 26\CountOccurence\obj\Debug\net10.0\CountOccurence.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 7 13th Jan 26\CountOccurence\obj\Debug\net10.0\CountOccurence.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 7 13th Jan 26\CountOccurence\obj\Debug\net10.0\ref\CountOccurence.dll

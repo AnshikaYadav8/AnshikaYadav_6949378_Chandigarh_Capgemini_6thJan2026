@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\FileExtension\bin\Debug\net10.0\FileExtension.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\FileExtension\bin\Debug\net10.0\FileExtension.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\FileExtension\bin\Debug\net10.0\FileExtension.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\FileExtension\bin\Debug\net10.0\FileExtension.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\FileExtension\bin\Debug\net10.0\FileExtension.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\FileExtension\obj\Debug\net10.0\FileExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\FileExtension\obj\Debug\net10.0\FileExtension.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\FileExtension\obj\Debug\net10.0\FileExtension.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\FileExtension\obj\Debug\net10.0\FileExtension.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\FileExtension\obj\Debug\net10.0\FileExtension.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\FileExtension\obj\Debug\net10.0\refint\FileExtension.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\FileExtension\obj\Debug\net10.0\FileExtension.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\FileExtension\obj\Debug\net10.0\FileExtension.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\FileExtension\obj\Debug\net10.0\ref\FileExtension.dll

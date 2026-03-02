@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\SumOfCubes\bin\Debug\net10.0\SumOfCubes.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\SumOfCubes\bin\Debug\net10.0\SumOfCubes.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\SumOfCubes\bin\Debug\net10.0\SumOfCubes.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\SumOfCubes\bin\Debug\net10.0\SumOfCubes.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\SumOfCubes\bin\Debug\net10.0\SumOfCubes.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\SumOfCubes\obj\Debug\net10.0\SumOfCubes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\SumOfCubes\obj\Debug\net10.0\SumOfCubes.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\SumOfCubes\obj\Debug\net10.0\SumOfCubes.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\SumOfCubes\obj\Debug\net10.0\SumOfCubes.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\SumOfCubes\obj\Debug\net10.0\SumOfCubes.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\SumOfCubes\obj\Debug\net10.0\refint\SumOfCubes.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\SumOfCubes\obj\Debug\net10.0\SumOfCubes.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\SumOfCubes\obj\Debug\net10.0\SumOfCubes.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\SumOfCubes\obj\Debug\net10.0\ref\SumOfCubes.dll

@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\InsertMultipleStrings\bin\Debug\net10.0\InsertMultipleStrings.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\InsertMultipleStrings\bin\Debug\net10.0\InsertMultipleStrings.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\InsertMultipleStrings\bin\Debug\net10.0\InsertMultipleStrings.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\InsertMultipleStrings\bin\Debug\net10.0\InsertMultipleStrings.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\InsertMultipleStrings\bin\Debug\net10.0\InsertMultipleStrings.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\InsertMultipleStrings\obj\Debug\net10.0\InsertMultipleStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\InsertMultipleStrings\obj\Debug\net10.0\InsertMultipleStrings.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\InsertMultipleStrings\obj\Debug\net10.0\InsertMultipleStrings.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\InsertMultipleStrings\obj\Debug\net10.0\InsertMultipleStrings.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\InsertMultipleStrings\obj\Debug\net10.0\InsertMultipleStrings.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\InsertMultipleStrings\obj\Debug\net10.0\refint\InsertMultipleStrings.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\InsertMultipleStrings\obj\Debug\net10.0\InsertMultipleStrings.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\InsertMultipleStrings\obj\Debug\net10.0\InsertMultipleStrings.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\InsertMultipleStrings\obj\Debug\net10.0\ref\InsertMultipleStrings.dll

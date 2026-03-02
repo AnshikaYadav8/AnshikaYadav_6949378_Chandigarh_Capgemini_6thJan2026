@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 19 28th Jan\MaxDifferenceInArray\bin\Debug\net10.0\MaxDifferenceInArray.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 19 28th Jan\MaxDifferenceInArray\bin\Debug\net10.0\MaxDifferenceInArray.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 19 28th Jan\MaxDifferenceInArray\bin\Debug\net10.0\MaxDifferenceInArray.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 19 28th Jan\MaxDifferenceInArray\bin\Debug\net10.0\MaxDifferenceInArray.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 19 28th Jan\MaxDifferenceInArray\bin\Debug\net10.0\MaxDifferenceInArray.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 19 28th Jan\MaxDifferenceInArray\obj\Debug\net10.0\MaxDifferenceInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 19 28th Jan\MaxDifferenceInArray\obj\Debug\net10.0\MaxDifferenceInArray.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 19 28th Jan\MaxDifferenceInArray\obj\Debug\net10.0\MaxDifferenceInArray.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 19 28th Jan\MaxDifferenceInArray\obj\Debug\net10.0\MaxDifferenceInArray.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 19 28th Jan\MaxDifferenceInArray\obj\Debug\net10.0\MaxDifferenceInArray.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 19 28th Jan\MaxDifferenceInArray\obj\Debug\net10.0\refint\MaxDifferenceInArray.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 19 28th Jan\MaxDifferenceInArray\obj\Debug\net10.0\MaxDifferenceInArray.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 19 28th Jan\MaxDifferenceInArray\obj\Debug\net10.0\MaxDifferenceInArray.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 19 28th Jan\MaxDifferenceInArray\obj\Debug\net10.0\ref\MaxDifferenceInArray.dll

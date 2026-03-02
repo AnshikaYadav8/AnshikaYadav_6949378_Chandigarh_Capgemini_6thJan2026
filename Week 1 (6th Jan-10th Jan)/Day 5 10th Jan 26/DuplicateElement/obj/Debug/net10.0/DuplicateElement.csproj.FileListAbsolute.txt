@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\DuplicateElement\bin\Debug\net10.0\DuplicateElement.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\DuplicateElement\bin\Debug\net10.0\DuplicateElement.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\DuplicateElement\bin\Debug\net10.0\DuplicateElement.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\DuplicateElement\bin\Debug\net10.0\DuplicateElement.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\DuplicateElement\bin\Debug\net10.0\DuplicateElement.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\DuplicateElement\obj\Debug\net10.0\DuplicateElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\DuplicateElement\obj\Debug\net10.0\DuplicateElement.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\DuplicateElement\obj\Debug\net10.0\DuplicateElement.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\DuplicateElement\obj\Debug\net10.0\DuplicateElement.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\DuplicateElement\obj\Debug\net10.0\DuplicateElement.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\DuplicateElement\obj\Debug\net10.0\refint\DuplicateElement.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\DuplicateElement\obj\Debug\net10.0\DuplicateElement.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\DuplicateElement\obj\Debug\net10.0\DuplicateElement.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\DuplicateElement\obj\Debug\net10.0\ref\DuplicateElement.dll

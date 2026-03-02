@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\PerformOperations\bin\Debug\net10.0\PerformOperations.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\PerformOperations\bin\Debug\net10.0\PerformOperations.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\PerformOperations\bin\Debug\net10.0\PerformOperations.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\PerformOperations\bin\Debug\net10.0\PerformOperations.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\PerformOperations\bin\Debug\net10.0\PerformOperations.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\PerformOperations\obj\Debug\net10.0\PerformOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\PerformOperations\obj\Debug\net10.0\PerformOperations.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\PerformOperations\obj\Debug\net10.0\PerformOperations.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\PerformOperations\obj\Debug\net10.0\PerformOperations.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\PerformOperations\obj\Debug\net10.0\PerformOperations.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\PerformOperations\obj\Debug\net10.0\refint\PerformOperations.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\PerformOperations\obj\Debug\net10.0\PerformOperations.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\PerformOperations\obj\Debug\net10.0\PerformOperations.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\PerformOperations\obj\Debug\net10.0\ref\PerformOperations.dll

@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 8 14th Jan 26\AverageOfNumbersDivisibleBy5\bin\Debug\net10.0\AverageOfNumbersDivisibleBy5.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 8 14th Jan 26\AverageOfNumbersDivisibleBy5\bin\Debug\net10.0\AverageOfNumbersDivisibleBy5.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 8 14th Jan 26\AverageOfNumbersDivisibleBy5\bin\Debug\net10.0\AverageOfNumbersDivisibleBy5.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 8 14th Jan 26\AverageOfNumbersDivisibleBy5\bin\Debug\net10.0\AverageOfNumbersDivisibleBy5.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 8 14th Jan 26\AverageOfNumbersDivisibleBy5\bin\Debug\net10.0\AverageOfNumbersDivisibleBy5.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 8 14th Jan 26\AverageOfNumbersDivisibleBy5\obj\Debug\net10.0\AverageOfNumbersDivisibleBy5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 8 14th Jan 26\AverageOfNumbersDivisibleBy5\obj\Debug\net10.0\AverageOfNumbersDivisibleBy5.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 8 14th Jan 26\AverageOfNumbersDivisibleBy5\obj\Debug\net10.0\AverageOfNumbersDivisibleBy5.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 8 14th Jan 26\AverageOfNumbersDivisibleBy5\obj\Debug\net10.0\AverageOfNumbersDivisibleBy5.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 8 14th Jan 26\AverageOfNumbersDivisibleBy5\obj\Debug\net10.0\AverageOfNumbersDivisibleBy5.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 8 14th Jan 26\AverageOfNumbersDivisibleBy5\obj\Debug\net10.0\refint\AverageOfNumbersDivisibleBy5.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 8 14th Jan 26\AverageOfNumbersDivisibleBy5\obj\Debug\net10.0\AverageOfNumbersDivisibleBy5.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 8 14th Jan 26\AverageOfNumbersDivisibleBy5\obj\Debug\net10.0\AverageOfNumbersDivisibleBy5.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 8 14th Jan 26\AverageOfNumbersDivisibleBy5\obj\Debug\net10.0\ref\AverageOfNumbersDivisibleBy5.dll

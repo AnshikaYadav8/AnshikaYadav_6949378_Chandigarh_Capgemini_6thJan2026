@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\Repeated3Times\bin\Debug\net10.0\Repeated3Times.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\Repeated3Times\bin\Debug\net10.0\Repeated3Times.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\Repeated3Times\bin\Debug\net10.0\Repeated3Times.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\Repeated3Times\bin\Debug\net10.0\Repeated3Times.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\Repeated3Times\bin\Debug\net10.0\Repeated3Times.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\Repeated3Times\obj\Debug\net10.0\Repeated3Times.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\Repeated3Times\obj\Debug\net10.0\Repeated3Times.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\Repeated3Times\obj\Debug\net10.0\Repeated3Times.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\Repeated3Times\obj\Debug\net10.0\Repeated3Times.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\Repeated3Times\obj\Debug\net10.0\Repeated3Times.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\Repeated3Times\obj\Debug\net10.0\refint\Repeated3Times.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\Repeated3Times\obj\Debug\net10.0\Repeated3Times.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\Repeated3Times\obj\Debug\net10.0\Repeated3Times.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\Repeated3Times\obj\Debug\net10.0\ref\Repeated3Times.dll

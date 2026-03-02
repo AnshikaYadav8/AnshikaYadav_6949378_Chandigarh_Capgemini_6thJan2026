@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\EnterSubstringAtPosition\bin\Debug\net10.0\EnterSubstringAtPosition.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\EnterSubstringAtPosition\bin\Debug\net10.0\EnterSubstringAtPosition.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\EnterSubstringAtPosition\bin\Debug\net10.0\EnterSubstringAtPosition.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\EnterSubstringAtPosition\bin\Debug\net10.0\EnterSubstringAtPosition.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\EnterSubstringAtPosition\bin\Debug\net10.0\EnterSubstringAtPosition.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\EnterSubstringAtPosition\obj\Debug\net10.0\EnterSubstringAtPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\EnterSubstringAtPosition\obj\Debug\net10.0\EnterSubstringAtPosition.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\EnterSubstringAtPosition\obj\Debug\net10.0\EnterSubstringAtPosition.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\EnterSubstringAtPosition\obj\Debug\net10.0\EnterSubstringAtPosition.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\EnterSubstringAtPosition\obj\Debug\net10.0\EnterSubstringAtPosition.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\EnterSubstringAtPosition\obj\Debug\net10.0\refint\EnterSubstringAtPosition.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\EnterSubstringAtPosition\obj\Debug\net10.0\EnterSubstringAtPosition.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\EnterSubstringAtPosition\obj\Debug\net10.0\EnterSubstringAtPosition.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\EnterSubstringAtPosition\obj\Debug\net10.0\ref\EnterSubstringAtPosition.dll

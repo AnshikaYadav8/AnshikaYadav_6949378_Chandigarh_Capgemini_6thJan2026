@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 16 23rd Jan 26\Inventory\bin\Debug\net10.0\Inventory.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 16 23rd Jan 26\Inventory\bin\Debug\net10.0\Inventory.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 16 23rd Jan 26\Inventory\bin\Debug\net10.0\Inventory.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 16 23rd Jan 26\Inventory\bin\Debug\net10.0\Inventory.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 16 23rd Jan 26\Inventory\bin\Debug\net10.0\Inventory.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 16 23rd Jan 26\Inventory\obj\Debug\net10.0\Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 16 23rd Jan 26\Inventory\obj\Debug\net10.0\Inventory.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 16 23rd Jan 26\Inventory\obj\Debug\net10.0\Inventory.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 16 23rd Jan 26\Inventory\obj\Debug\net10.0\Inventory.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 16 23rd Jan 26\Inventory\obj\Debug\net10.0\Inventory.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 16 23rd Jan 26\Inventory\obj\Debug\net10.0\refint\Inventory.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 16 23rd Jan 26\Inventory\obj\Debug\net10.0\Inventory.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 16 23rd Jan 26\Inventory\obj\Debug\net10.0\Inventory.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 16 23rd Jan 26\Inventory\obj\Debug\net10.0\ref\Inventory.dll

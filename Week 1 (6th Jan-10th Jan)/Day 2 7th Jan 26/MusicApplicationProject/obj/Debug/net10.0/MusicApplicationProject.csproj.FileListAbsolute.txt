@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 2 7th Jan 26\MusicApplicationProject\bin\Debug\net10.0\MusicApplicationProject.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 2 7th Jan 26\MusicApplicationProject\bin\Debug\net10.0\MusicApplicationProject.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 2 7th Jan 26\MusicApplicationProject\bin\Debug\net10.0\MusicApplicationProject.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 2 7th Jan 26\MusicApplicationProject\bin\Debug\net10.0\MusicApplicationProject.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 2 7th Jan 26\MusicApplicationProject\bin\Debug\net10.0\MusicApplicationProject.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 2 7th Jan 26\MusicApplicationProject\obj\Debug\net10.0\MusicApplicationProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 2 7th Jan 26\MusicApplicationProject\obj\Debug\net10.0\MusicApplicationProject.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 2 7th Jan 26\MusicApplicationProject\obj\Debug\net10.0\MusicApplicationProject.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 2 7th Jan 26\MusicApplicationProject\obj\Debug\net10.0\MusicApplicationProject.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 2 7th Jan 26\MusicApplicationProject\obj\Debug\net10.0\MusicApplicationProject.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 2 7th Jan 26\MusicApplicationProject\obj\Debug\net10.0\refint\MusicApplicationProject.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 2 7th Jan 26\MusicApplicationProject\obj\Debug\net10.0\MusicApplicationProject.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 2 7th Jan 26\MusicApplicationProject\obj\Debug\net10.0\MusicApplicationProject.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 2 7th Jan 26\MusicApplicationProject\obj\Debug\net10.0\ref\MusicApplicationProject.dll

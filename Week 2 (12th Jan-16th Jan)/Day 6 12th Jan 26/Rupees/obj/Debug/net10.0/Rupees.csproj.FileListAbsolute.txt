@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 6 12th Jan 26\Rupees\bin\Debug\net10.0\Rupees.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 6 12th Jan 26\Rupees\bin\Debug\net10.0\Rupees.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 6 12th Jan 26\Rupees\bin\Debug\net10.0\Rupees.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 6 12th Jan 26\Rupees\bin\Debug\net10.0\Rupees.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 6 12th Jan 26\Rupees\bin\Debug\net10.0\Rupees.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 6 12th Jan 26\Rupees\obj\Debug\net10.0\Rupees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 6 12th Jan 26\Rupees\obj\Debug\net10.0\Rupees.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 6 12th Jan 26\Rupees\obj\Debug\net10.0\Rupees.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 6 12th Jan 26\Rupees\obj\Debug\net10.0\Rupees.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 6 12th Jan 26\Rupees\obj\Debug\net10.0\Rupees.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 6 12th Jan 26\Rupees\obj\Debug\net10.0\refint\Rupees.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 6 12th Jan 26\Rupees\obj\Debug\net10.0\Rupees.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 6 12th Jan 26\Rupees\obj\Debug\net10.0\Rupees.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 6 12th Jan 26\Rupees\obj\Debug\net10.0\ref\Rupees.dll

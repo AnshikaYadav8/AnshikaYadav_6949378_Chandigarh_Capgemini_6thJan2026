@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\SearchElement\bin\Debug\net10.0\SearchElement.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\SearchElement\bin\Debug\net10.0\SearchElement.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\SearchElement\bin\Debug\net10.0\SearchElement.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\SearchElement\bin\Debug\net10.0\SearchElement.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\SearchElement\bin\Debug\net10.0\SearchElement.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\SearchElement\obj\Debug\net10.0\SearchElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\SearchElement\obj\Debug\net10.0\SearchElement.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\SearchElement\obj\Debug\net10.0\SearchElement.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\SearchElement\obj\Debug\net10.0\SearchElement.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\SearchElement\obj\Debug\net10.0\SearchElement.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\SearchElement\obj\Debug\net10.0\refint\SearchElement.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\SearchElement\obj\Debug\net10.0\SearchElement.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\SearchElement\obj\Debug\net10.0\SearchElement.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\SearchElement\obj\Debug\net10.0\ref\SearchElement.dll

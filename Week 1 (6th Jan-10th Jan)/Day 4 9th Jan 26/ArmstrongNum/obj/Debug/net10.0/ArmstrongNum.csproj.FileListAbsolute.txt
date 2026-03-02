@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\ArmstrongNum\bin\Debug\net10.0\ArmstrongNum.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\ArmstrongNum\bin\Debug\net10.0\ArmstrongNum.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\ArmstrongNum\bin\Debug\net10.0\ArmstrongNum.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\ArmstrongNum\bin\Debug\net10.0\ArmstrongNum.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\ArmstrongNum\bin\Debug\net10.0\ArmstrongNum.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\ArmstrongNum\obj\Debug\net10.0\ArmstrongNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\ArmstrongNum\obj\Debug\net10.0\ArmstrongNum.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\ArmstrongNum\obj\Debug\net10.0\ArmstrongNum.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\ArmstrongNum\obj\Debug\net10.0\ArmstrongNum.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\ArmstrongNum\obj\Debug\net10.0\ArmstrongNum.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\ArmstrongNum\obj\Debug\net10.0\refint\ArmstrongNum.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\ArmstrongNum\obj\Debug\net10.0\ArmstrongNum.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\ArmstrongNum\obj\Debug\net10.0\ArmstrongNum.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\ArmstrongNum\obj\Debug\net10.0\ref\ArmstrongNum.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Repeated3Times/1.0.0": {
+        "runtime": {
+          "Repeated3Times.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Repeated3Times/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

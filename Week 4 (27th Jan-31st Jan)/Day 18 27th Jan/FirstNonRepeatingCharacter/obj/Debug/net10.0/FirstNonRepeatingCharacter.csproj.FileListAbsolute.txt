@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\FirstNonRepeatingCharacter\bin\Debug\net10.0\FirstNonRepeatingCharacter.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\FirstNonRepeatingCharacter\bin\Debug\net10.0\FirstNonRepeatingCharacter.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\FirstNonRepeatingCharacter\bin\Debug\net10.0\FirstNonRepeatingCharacter.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\FirstNonRepeatingCharacter\bin\Debug\net10.0\FirstNonRepeatingCharacter.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\FirstNonRepeatingCharacter\bin\Debug\net10.0\FirstNonRepeatingCharacter.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\FirstNonRepeatingCharacter\obj\Debug\net10.0\FirstNonRepeatingCharacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\FirstNonRepeatingCharacter\obj\Debug\net10.0\FirstNonRepeatingCharacter.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\FirstNonRepeatingCharacter\obj\Debug\net10.0\FirstNonRepeatingCharacter.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\FirstNonRepeatingCharacter\obj\Debug\net10.0\FirstNonRepeatingCharacter.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\FirstNonRepeatingCharacter\obj\Debug\net10.0\FirstNonRepeatingCharacter.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\FirstNonRepeatingCharacter\obj\Debug\net10.0\refint\FirstNonRepeatingCharacter.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\FirstNonRepeatingCharacter\obj\Debug\net10.0\FirstNonRepeatingCharacter.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\FirstNonRepeatingCharacter\obj\Debug\net10.0\FirstNonRepeatingCharacter.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\FirstNonRepeatingCharacter\obj\Debug\net10.0\ref\FirstNonRepeatingCharacter.dll

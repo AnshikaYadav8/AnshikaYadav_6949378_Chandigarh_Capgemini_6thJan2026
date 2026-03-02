@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\SwapArrayValues\bin\Debug\net10.0\SwapArrayValues.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\SwapArrayValues\bin\Debug\net10.0\SwapArrayValues.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\SwapArrayValues\bin\Debug\net10.0\SwapArrayValues.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\SwapArrayValues\bin\Debug\net10.0\SwapArrayValues.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\SwapArrayValues\bin\Debug\net10.0\SwapArrayValues.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\SwapArrayValues\obj\Debug\net10.0\SwapArrayValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\SwapArrayValues\obj\Debug\net10.0\SwapArrayValues.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\SwapArrayValues\obj\Debug\net10.0\SwapArrayValues.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\SwapArrayValues\obj\Debug\net10.0\SwapArrayValues.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\SwapArrayValues\obj\Debug\net10.0\SwapArrayValues.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\SwapArrayValues\obj\Debug\net10.0\refint\SwapArrayValues.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\SwapArrayValues\obj\Debug\net10.0\SwapArrayValues.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\SwapArrayValues\obj\Debug\net10.0\SwapArrayValues.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\SwapArrayValues\obj\Debug\net10.0\ref\SwapArrayValues.dll

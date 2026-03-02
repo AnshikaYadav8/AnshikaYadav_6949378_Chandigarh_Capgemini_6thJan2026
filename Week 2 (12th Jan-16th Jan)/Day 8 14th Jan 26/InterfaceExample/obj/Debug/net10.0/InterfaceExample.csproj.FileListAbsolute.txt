@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 8 14th Jan 26\InterfaceExample\bin\Debug\net10.0\InterfaceExample.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 8 14th Jan 26\InterfaceExample\bin\Debug\net10.0\InterfaceExample.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 8 14th Jan 26\InterfaceExample\bin\Debug\net10.0\InterfaceExample.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 8 14th Jan 26\InterfaceExample\bin\Debug\net10.0\InterfaceExample.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 8 14th Jan 26\InterfaceExample\bin\Debug\net10.0\InterfaceExample.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 8 14th Jan 26\InterfaceExample\obj\Debug\net10.0\InterfaceExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 8 14th Jan 26\InterfaceExample\obj\Debug\net10.0\InterfaceExample.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 8 14th Jan 26\InterfaceExample\obj\Debug\net10.0\InterfaceExample.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 8 14th Jan 26\InterfaceExample\obj\Debug\net10.0\InterfaceExample.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 8 14th Jan 26\InterfaceExample\obj\Debug\net10.0\InterfaceExample.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 8 14th Jan 26\InterfaceExample\obj\Debug\net10.0\refint\InterfaceExample.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 8 14th Jan 26\InterfaceExample\obj\Debug\net10.0\InterfaceExample.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 8 14th Jan 26\InterfaceExample\obj\Debug\net10.0\InterfaceExample.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 8 14th Jan 26\InterfaceExample\obj\Debug\net10.0\ref\InterfaceExample.dll

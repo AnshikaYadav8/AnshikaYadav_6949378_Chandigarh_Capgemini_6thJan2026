@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\DeleteAlternatingCharacter\bin\Debug\net10.0\DeleteAlternatingCharacter.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\DeleteAlternatingCharacter\bin\Debug\net10.0\DeleteAlternatingCharacter.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\DeleteAlternatingCharacter\bin\Debug\net10.0\DeleteAlternatingCharacter.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\DeleteAlternatingCharacter\bin\Debug\net10.0\DeleteAlternatingCharacter.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\DeleteAlternatingCharacter\bin\Debug\net10.0\DeleteAlternatingCharacter.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\DeleteAlternatingCharacter\obj\Debug\net10.0\DeleteAlternatingCharacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\DeleteAlternatingCharacter\obj\Debug\net10.0\DeleteAlternatingCharacter.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\DeleteAlternatingCharacter\obj\Debug\net10.0\DeleteAlternatingCharacter.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\DeleteAlternatingCharacter\obj\Debug\net10.0\DeleteAlternatingCharacter.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\DeleteAlternatingCharacter\obj\Debug\net10.0\DeleteAlternatingCharacter.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\DeleteAlternatingCharacter\obj\Debug\net10.0\refint\DeleteAlternatingCharacter.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\DeleteAlternatingCharacter\obj\Debug\net10.0\DeleteAlternatingCharacter.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\DeleteAlternatingCharacter\obj\Debug\net10.0\DeleteAlternatingCharacter.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\DeleteAlternatingCharacter\obj\Debug\net10.0\ref\DeleteAlternatingCharacter.dll

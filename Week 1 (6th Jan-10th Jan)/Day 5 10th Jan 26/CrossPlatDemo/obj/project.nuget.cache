@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wQjBuvjcjyM=",
+  "success": true,
+  "projectFilePath": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 1 (6th Jan-10th Jan)\\Day 5 10th Jan 26\\CrossPlatDemo\\CrossPlatDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Annie\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\10.0.1\\microsoft.netcore.app.runtime.win-x64.10.0.1.nupkg.sha512",
+    "C:\\Users\\Annie\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\10.0.1\\microsoft.windowsdesktop.app.runtime.win-x64.10.0.1.nupkg.sha512",
+    "C:\\Users\\Annie\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\10.0.1\\microsoft.aspnetcore.app.runtime.win-x64.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

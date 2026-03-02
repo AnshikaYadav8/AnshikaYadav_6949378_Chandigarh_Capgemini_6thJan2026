@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\SortPipeSeparatedWords\bin\Debug\net10.0\SortPipeSeparatedWords.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\SortPipeSeparatedWords\bin\Debug\net10.0\SortPipeSeparatedWords.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\SortPipeSeparatedWords\bin\Debug\net10.0\SortPipeSeparatedWords.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\SortPipeSeparatedWords\bin\Debug\net10.0\SortPipeSeparatedWords.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\SortPipeSeparatedWords\bin\Debug\net10.0\SortPipeSeparatedWords.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\SortPipeSeparatedWords\obj\Debug\net10.0\SortPipeSeparatedWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\SortPipeSeparatedWords\obj\Debug\net10.0\SortPipeSeparatedWords.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\SortPipeSeparatedWords\obj\Debug\net10.0\SortPipeSeparatedWords.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\SortPipeSeparatedWords\obj\Debug\net10.0\SortPipeSeparatedWords.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\SortPipeSeparatedWords\obj\Debug\net10.0\SortPipeSeparatedWords.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\SortPipeSeparatedWords\obj\Debug\net10.0\refint\SortPipeSeparatedWords.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\SortPipeSeparatedWords\obj\Debug\net10.0\SortPipeSeparatedWords.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\SortPipeSeparatedWords\obj\Debug\net10.0\SortPipeSeparatedWords.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\SortPipeSeparatedWords\obj\Debug\net10.0\ref\SortPipeSeparatedWords.dll

@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\MultiplyPositiveNumbers\bin\Debug\net10.0\MultiplyPositiveNumbers.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\MultiplyPositiveNumbers\bin\Debug\net10.0\MultiplyPositiveNumbers.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\MultiplyPositiveNumbers\bin\Debug\net10.0\MultiplyPositiveNumbers.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\MultiplyPositiveNumbers\bin\Debug\net10.0\MultiplyPositiveNumbers.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\MultiplyPositiveNumbers\bin\Debug\net10.0\MultiplyPositiveNumbers.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\MultiplyPositiveNumbers\obj\Debug\net10.0\MultiplyPositiveNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\MultiplyPositiveNumbers\obj\Debug\net10.0\MultiplyPositiveNumbers.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\MultiplyPositiveNumbers\obj\Debug\net10.0\MultiplyPositiveNumbers.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\MultiplyPositiveNumbers\obj\Debug\net10.0\MultiplyPositiveNumbers.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\MultiplyPositiveNumbers\obj\Debug\net10.0\MultiplyPositiveNumbers.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\MultiplyPositiveNumbers\obj\Debug\net10.0\refint\MultiplyPositiveNumbers.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\MultiplyPositiveNumbers\obj\Debug\net10.0\MultiplyPositiveNumbers.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\MultiplyPositiveNumbers\obj\Debug\net10.0\MultiplyPositiveNumbers.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\MultiplyPositiveNumbers\obj\Debug\net10.0\ref\MultiplyPositiveNumbers.dll

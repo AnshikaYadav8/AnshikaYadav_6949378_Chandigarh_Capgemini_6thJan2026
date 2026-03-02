@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\PerfectShuffle\bin\Debug\net10.0\PerfectShuffle.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\PerfectShuffle\bin\Debug\net10.0\PerfectShuffle.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\PerfectShuffle\bin\Debug\net10.0\PerfectShuffle.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\PerfectShuffle\bin\Debug\net10.0\PerfectShuffle.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\PerfectShuffle\bin\Debug\net10.0\PerfectShuffle.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\PerfectShuffle\obj\Debug\net10.0\PerfectShuffle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\PerfectShuffle\obj\Debug\net10.0\PerfectShuffle.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\PerfectShuffle\obj\Debug\net10.0\PerfectShuffle.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\PerfectShuffle\obj\Debug\net10.0\PerfectShuffle.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\PerfectShuffle\obj\Debug\net10.0\PerfectShuffle.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\PerfectShuffle\obj\Debug\net10.0\refint\PerfectShuffle.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\PerfectShuffle\obj\Debug\net10.0\PerfectShuffle.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\PerfectShuffle\obj\Debug\net10.0\PerfectShuffle.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\PerfectShuffle\obj\Debug\net10.0\ref\PerfectShuffle.dll

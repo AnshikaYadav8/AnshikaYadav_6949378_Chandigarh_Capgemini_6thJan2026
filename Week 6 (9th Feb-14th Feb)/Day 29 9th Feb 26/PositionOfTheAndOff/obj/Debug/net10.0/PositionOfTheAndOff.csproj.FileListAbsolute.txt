@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\PositionOfTheAndOff\bin\Debug\net10.0\PositionOfTheAndOff.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\PositionOfTheAndOff\bin\Debug\net10.0\PositionOfTheAndOff.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\PositionOfTheAndOff\bin\Debug\net10.0\PositionOfTheAndOff.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\PositionOfTheAndOff\bin\Debug\net10.0\PositionOfTheAndOff.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\PositionOfTheAndOff\bin\Debug\net10.0\PositionOfTheAndOff.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\PositionOfTheAndOff\obj\Debug\net10.0\PositionOfTheAndOff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\PositionOfTheAndOff\obj\Debug\net10.0\PositionOfTheAndOff.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\PositionOfTheAndOff\obj\Debug\net10.0\PositionOfTheAndOff.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\PositionOfTheAndOff\obj\Debug\net10.0\PositionOfTheAndOff.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\PositionOfTheAndOff\obj\Debug\net10.0\PositionOfTheAndOff.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\PositionOfTheAndOff\obj\Debug\net10.0\refint\PositionOfTheAndOff.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\PositionOfTheAndOff\obj\Debug\net10.0\PositionOfTheAndOff.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\PositionOfTheAndOff\obj\Debug\net10.0\PositionOfTheAndOff.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\PositionOfTheAndOff\obj\Debug\net10.0\ref\PositionOfTheAndOff.dll

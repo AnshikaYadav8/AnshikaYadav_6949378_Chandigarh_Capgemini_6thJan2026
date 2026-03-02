@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 16 23rd Jan 26\StudentGrading\bin\Debug\net10.0\StudentGrading.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 16 23rd Jan 26\StudentGrading\bin\Debug\net10.0\StudentGrading.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 16 23rd Jan 26\StudentGrading\bin\Debug\net10.0\StudentGrading.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 16 23rd Jan 26\StudentGrading\bin\Debug\net10.0\StudentGrading.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 16 23rd Jan 26\StudentGrading\bin\Debug\net10.0\StudentGrading.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 16 23rd Jan 26\StudentGrading\obj\Debug\net10.0\StudentGrading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 16 23rd Jan 26\StudentGrading\obj\Debug\net10.0\StudentGrading.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 16 23rd Jan 26\StudentGrading\obj\Debug\net10.0\StudentGrading.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 16 23rd Jan 26\StudentGrading\obj\Debug\net10.0\StudentGrading.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 16 23rd Jan 26\StudentGrading\obj\Debug\net10.0\StudentGrading.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 16 23rd Jan 26\StudentGrading\obj\Debug\net10.0\refint\StudentGrading.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 16 23rd Jan 26\StudentGrading\obj\Debug\net10.0\StudentGrading.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 16 23rd Jan 26\StudentGrading\obj\Debug\net10.0\StudentGrading.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 16 23rd Jan 26\StudentGrading\obj\Debug\net10.0\ref\StudentGrading.dll

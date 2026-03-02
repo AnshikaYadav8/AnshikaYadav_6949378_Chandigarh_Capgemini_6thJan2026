@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ReplaceFirstOccurence\bin\Debug\net10.0\ReplaceFirstOccurence.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ReplaceFirstOccurence\bin\Debug\net10.0\ReplaceFirstOccurence.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ReplaceFirstOccurence\bin\Debug\net10.0\ReplaceFirstOccurence.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ReplaceFirstOccurence\bin\Debug\net10.0\ReplaceFirstOccurence.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ReplaceFirstOccurence\bin\Debug\net10.0\ReplaceFirstOccurence.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ReplaceFirstOccurence\obj\Debug\net10.0\ReplaceFirstOccurence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ReplaceFirstOccurence\obj\Debug\net10.0\ReplaceFirstOccurence.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ReplaceFirstOccurence\obj\Debug\net10.0\ReplaceFirstOccurence.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ReplaceFirstOccurence\obj\Debug\net10.0\ReplaceFirstOccurence.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ReplaceFirstOccurence\obj\Debug\net10.0\ReplaceFirstOccurence.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ReplaceFirstOccurence\obj\Debug\net10.0\refint\ReplaceFirstOccurence.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ReplaceFirstOccurence\obj\Debug\net10.0\ReplaceFirstOccurence.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ReplaceFirstOccurence\obj\Debug\net10.0\ReplaceFirstOccurence.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ReplaceFirstOccurence\obj\Debug\net10.0\ref\ReplaceFirstOccurence.dll

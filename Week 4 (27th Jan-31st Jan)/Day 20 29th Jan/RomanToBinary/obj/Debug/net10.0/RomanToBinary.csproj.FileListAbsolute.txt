@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 20 29th Jan\RomanToBinary\bin\Debug\net10.0\RomanToBinary.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 20 29th Jan\RomanToBinary\bin\Debug\net10.0\RomanToBinary.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 20 29th Jan\RomanToBinary\bin\Debug\net10.0\RomanToBinary.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 20 29th Jan\RomanToBinary\bin\Debug\net10.0\RomanToBinary.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 20 29th Jan\RomanToBinary\bin\Debug\net10.0\RomanToBinary.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 20 29th Jan\RomanToBinary\obj\Debug\net10.0\RomanToBinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 20 29th Jan\RomanToBinary\obj\Debug\net10.0\RomanToBinary.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 20 29th Jan\RomanToBinary\obj\Debug\net10.0\RomanToBinary.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 20 29th Jan\RomanToBinary\obj\Debug\net10.0\RomanToBinary.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 20 29th Jan\RomanToBinary\obj\Debug\net10.0\RomanToBinary.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 20 29th Jan\RomanToBinary\obj\Debug\net10.0\refint\RomanToBinary.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 20 29th Jan\RomanToBinary\obj\Debug\net10.0\RomanToBinary.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 20 29th Jan\RomanToBinary\obj\Debug\net10.0\RomanToBinary.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 20 29th Jan\RomanToBinary\obj\Debug\net10.0\ref\RomanToBinary.dll

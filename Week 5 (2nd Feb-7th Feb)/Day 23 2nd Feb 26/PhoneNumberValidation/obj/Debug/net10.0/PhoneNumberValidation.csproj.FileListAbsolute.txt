@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\PhoneNumberValidation\bin\Debug\net10.0\PhoneNumberValidation.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\PhoneNumberValidation\bin\Debug\net10.0\PhoneNumberValidation.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\PhoneNumberValidation\bin\Debug\net10.0\PhoneNumberValidation.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\PhoneNumberValidation\bin\Debug\net10.0\PhoneNumberValidation.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\PhoneNumberValidation\bin\Debug\net10.0\PhoneNumberValidation.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\PhoneNumberValidation\obj\Debug\net10.0\PhoneNumberValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\PhoneNumberValidation\obj\Debug\net10.0\PhoneNumberValidation.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\PhoneNumberValidation\obj\Debug\net10.0\PhoneNumberValidation.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\PhoneNumberValidation\obj\Debug\net10.0\PhoneNumberValidation.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\PhoneNumberValidation\obj\Debug\net10.0\PhoneNumberValidation.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\PhoneNumberValidation\obj\Debug\net10.0\refint\PhoneNumberValidation.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\PhoneNumberValidation\obj\Debug\net10.0\PhoneNumberValidation.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\PhoneNumberValidation\obj\Debug\net10.0\PhoneNumberValidation.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\PhoneNumberValidation\obj\Debug\net10.0\ref\PhoneNumberValidation.dll

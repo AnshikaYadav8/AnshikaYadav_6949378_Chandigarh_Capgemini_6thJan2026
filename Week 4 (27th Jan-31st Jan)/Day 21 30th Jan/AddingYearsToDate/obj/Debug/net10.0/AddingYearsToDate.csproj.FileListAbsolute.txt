@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\AddingYearsToDate\bin\Debug\net10.0\AddingYearsToDate.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\AddingYearsToDate\bin\Debug\net10.0\AddingYearsToDate.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\AddingYearsToDate\bin\Debug\net10.0\AddingYearsToDate.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\AddingYearsToDate\bin\Debug\net10.0\AddingYearsToDate.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\AddingYearsToDate\bin\Debug\net10.0\AddingYearsToDate.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\AddingYearsToDate\obj\Debug\net10.0\AddingYearsToDate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\AddingYearsToDate\obj\Debug\net10.0\AddingYearsToDate.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\AddingYearsToDate\obj\Debug\net10.0\AddingYearsToDate.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\AddingYearsToDate\obj\Debug\net10.0\AddingYearsToDate.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\AddingYearsToDate\obj\Debug\net10.0\AddingYearsToDate.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\AddingYearsToDate\obj\Debug\net10.0\refint\AddingYearsToDate.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\AddingYearsToDate\obj\Debug\net10.0\AddingYearsToDate.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\AddingYearsToDate\obj\Debug\net10.0\AddingYearsToDate.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\AddingYearsToDate\obj\Debug\net10.0\ref\AddingYearsToDate.dll

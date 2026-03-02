@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 12 19th Jan 26\GameCharacterSystem\obj\Debug\net10.0\GameCharacterSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 12 19th Jan 26\GameCharacterSystem\obj\Debug\net10.0\GameCharacterSystem.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 12 19th Jan 26\GameCharacterSystem\obj\Debug\net10.0\GameCharacterSystem.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 12 19th Jan 26\GameCharacterSystem\obj\Debug\net10.0\GameCharacterSystem.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 12 19th Jan 26\GameCharacterSystem\bin\Debug\net10.0\GameCharacterSystem.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 12 19th Jan 26\GameCharacterSystem\bin\Debug\net10.0\GameCharacterSystem.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 12 19th Jan 26\GameCharacterSystem\bin\Debug\net10.0\GameCharacterSystem.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 12 19th Jan 26\GameCharacterSystem\bin\Debug\net10.0\GameCharacterSystem.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 12 19th Jan 26\GameCharacterSystem\bin\Debug\net10.0\GameCharacterSystem.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 12 19th Jan 26\GameCharacterSystem\obj\Debug\net10.0\GameCharacterSystem.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 12 19th Jan 26\GameCharacterSystem\obj\Debug\net10.0\refint\GameCharacterSystem.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 12 19th Jan 26\GameCharacterSystem\obj\Debug\net10.0\GameCharacterSystem.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 12 19th Jan 26\GameCharacterSystem\obj\Debug\net10.0\GameCharacterSystem.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 12 19th Jan 26\GameCharacterSystem\obj\Debug\net10.0\ref\GameCharacterSystem.dll

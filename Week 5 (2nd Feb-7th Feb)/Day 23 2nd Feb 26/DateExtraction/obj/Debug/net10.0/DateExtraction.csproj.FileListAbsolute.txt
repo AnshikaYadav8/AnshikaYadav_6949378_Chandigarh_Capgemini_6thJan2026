@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\DateExtraction\bin\Debug\net10.0\DateExtraction.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\DateExtraction\bin\Debug\net10.0\DateExtraction.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\DateExtraction\bin\Debug\net10.0\DateExtraction.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\DateExtraction\bin\Debug\net10.0\DateExtraction.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\DateExtraction\bin\Debug\net10.0\DateExtraction.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\DateExtraction\obj\Debug\net10.0\DateExtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\DateExtraction\obj\Debug\net10.0\DateExtraction.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\DateExtraction\obj\Debug\net10.0\DateExtraction.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\DateExtraction\obj\Debug\net10.0\DateExtraction.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\DateExtraction\obj\Debug\net10.0\DateExtraction.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\DateExtraction\obj\Debug\net10.0\refint\DateExtraction.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\DateExtraction\obj\Debug\net10.0\DateExtraction.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\DateExtraction\obj\Debug\net10.0\DateExtraction.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\DateExtraction\obj\Debug\net10.0\ref\DateExtraction.dll

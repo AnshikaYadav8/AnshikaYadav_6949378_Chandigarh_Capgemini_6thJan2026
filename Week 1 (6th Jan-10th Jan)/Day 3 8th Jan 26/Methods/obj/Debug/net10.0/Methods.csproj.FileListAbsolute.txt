@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 3 8th Jan 26\Methods\bin\Debug\net10.0\Methods.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 3 8th Jan 26\Methods\bin\Debug\net10.0\Methods.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 3 8th Jan 26\Methods\bin\Debug\net10.0\Methods.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 3 8th Jan 26\Methods\bin\Debug\net10.0\Methods.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 3 8th Jan 26\Methods\bin\Debug\net10.0\Methods.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 3 8th Jan 26\Methods\obj\Debug\net10.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 3 8th Jan 26\Methods\obj\Debug\net10.0\Methods.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 3 8th Jan 26\Methods\obj\Debug\net10.0\Methods.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 3 8th Jan 26\Methods\obj\Debug\net10.0\Methods.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 3 8th Jan 26\Methods\obj\Debug\net10.0\Methods.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 3 8th Jan 26\Methods\obj\Debug\net10.0\refint\Methods.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 3 8th Jan 26\Methods\obj\Debug\net10.0\Methods.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 3 8th Jan 26\Methods\obj\Debug\net10.0\Methods.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 3 8th Jan 26\Methods\obj\Debug\net10.0\ref\Methods.dll

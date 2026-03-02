@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\M1 Practice\UniqueElements\bin\Debug\net10.0\UniqueElements.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\M1 Practice\UniqueElements\bin\Debug\net10.0\UniqueElements.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\M1 Practice\UniqueElements\bin\Debug\net10.0\UniqueElements.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\M1 Practice\UniqueElements\bin\Debug\net10.0\UniqueElements.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\M1 Practice\UniqueElements\bin\Debug\net10.0\UniqueElements.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\M1 Practice\UniqueElements\obj\Debug\net10.0\UniqueElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\M1 Practice\UniqueElements\obj\Debug\net10.0\UniqueElements.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\M1 Practice\UniqueElements\obj\Debug\net10.0\UniqueElements.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\M1 Practice\UniqueElements\obj\Debug\net10.0\UniqueElements.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\M1 Practice\UniqueElements\obj\Debug\net10.0\UniqueElements.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\M1 Practice\UniqueElements\obj\Debug\net10.0\refint\UniqueElements.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\M1 Practice\UniqueElements\obj\Debug\net10.0\UniqueElements.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\M1 Practice\UniqueElements\obj\Debug\net10.0\UniqueElements.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\M1 Practice\UniqueElements\obj\Debug\net10.0\ref\UniqueElements.dll

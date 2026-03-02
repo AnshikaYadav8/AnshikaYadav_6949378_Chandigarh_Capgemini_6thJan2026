@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\ProductOfDigits\bin\Debug\net10.0\ProductOfDigits.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\ProductOfDigits\bin\Debug\net10.0\ProductOfDigits.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\ProductOfDigits\bin\Debug\net10.0\ProductOfDigits.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\ProductOfDigits\bin\Debug\net10.0\ProductOfDigits.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\ProductOfDigits\bin\Debug\net10.0\ProductOfDigits.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\ProductOfDigits\obj\Debug\net10.0\ProductOfDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\ProductOfDigits\obj\Debug\net10.0\ProductOfDigits.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\ProductOfDigits\obj\Debug\net10.0\ProductOfDigits.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\ProductOfDigits\obj\Debug\net10.0\ProductOfDigits.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\ProductOfDigits\obj\Debug\net10.0\ProductOfDigits.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\ProductOfDigits\obj\Debug\net10.0\refint\ProductOfDigits.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\ProductOfDigits\obj\Debug\net10.0\ProductOfDigits.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\ProductOfDigits\obj\Debug\net10.0\ProductOfDigits.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\ProductOfDigits\obj\Debug\net10.0\ref\ProductOfDigits.dll

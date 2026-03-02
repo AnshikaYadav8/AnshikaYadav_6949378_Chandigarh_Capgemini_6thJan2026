@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 25 4th Feb 26\DifferenceBetween2Dates\bin\Debug\net10.0\DifferenceBetween2Dates.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 25 4th Feb 26\DifferenceBetween2Dates\bin\Debug\net10.0\DifferenceBetween2Dates.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 25 4th Feb 26\DifferenceBetween2Dates\bin\Debug\net10.0\DifferenceBetween2Dates.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 25 4th Feb 26\DifferenceBetween2Dates\bin\Debug\net10.0\DifferenceBetween2Dates.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 25 4th Feb 26\DifferenceBetween2Dates\bin\Debug\net10.0\DifferenceBetween2Dates.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 25 4th Feb 26\DifferenceBetween2Dates\obj\Debug\net10.0\DifferenceBetween2Dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 25 4th Feb 26\DifferenceBetween2Dates\obj\Debug\net10.0\DifferenceBetween2Dates.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 25 4th Feb 26\DifferenceBetween2Dates\obj\Debug\net10.0\DifferenceBetween2Dates.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 25 4th Feb 26\DifferenceBetween2Dates\obj\Debug\net10.0\DifferenceBetween2Dates.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 25 4th Feb 26\DifferenceBetween2Dates\obj\Debug\net10.0\DifferenceBetween2Dates.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 25 4th Feb 26\DifferenceBetween2Dates\obj\Debug\net10.0\refint\DifferenceBetween2Dates.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 25 4th Feb 26\DifferenceBetween2Dates\obj\Debug\net10.0\DifferenceBetween2Dates.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 25 4th Feb 26\DifferenceBetween2Dates\obj\Debug\net10.0\DifferenceBetween2Dates.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 25 4th Feb 26\DifferenceBetween2Dates\obj\Debug\net10.0\ref\DifferenceBetween2Dates.dll

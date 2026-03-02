@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ScoreByPalindrome\bin\Debug\net10.0\ScoreByPalindrome.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ScoreByPalindrome\bin\Debug\net10.0\ScoreByPalindrome.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ScoreByPalindrome\bin\Debug\net10.0\ScoreByPalindrome.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ScoreByPalindrome\bin\Debug\net10.0\ScoreByPalindrome.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ScoreByPalindrome\bin\Debug\net10.0\ScoreByPalindrome.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ScoreByPalindrome\obj\Debug\net10.0\ScoreByPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ScoreByPalindrome\obj\Debug\net10.0\ScoreByPalindrome.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ScoreByPalindrome\obj\Debug\net10.0\ScoreByPalindrome.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ScoreByPalindrome\obj\Debug\net10.0\ScoreByPalindrome.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ScoreByPalindrome\obj\Debug\net10.0\ScoreByPalindrome.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ScoreByPalindrome\obj\Debug\net10.0\refint\ScoreByPalindrome.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ScoreByPalindrome\obj\Debug\net10.0\ScoreByPalindrome.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ScoreByPalindrome\obj\Debug\net10.0\ScoreByPalindrome.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ScoreByPalindrome\obj\Debug\net10.0\ref\ScoreByPalindrome.dll

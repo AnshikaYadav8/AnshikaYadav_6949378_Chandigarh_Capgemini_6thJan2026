@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\StringArray\bin\Debug\net10.0\StringArray.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\StringArray\bin\Debug\net10.0\StringArray.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\StringArray\bin\Debug\net10.0\StringArray.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\StringArray\bin\Debug\net10.0\StringArray.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\StringArray\bin\Debug\net10.0\StringArray.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\StringArray\obj\Debug\net10.0\StringArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\StringArray\obj\Debug\net10.0\StringArray.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\StringArray\obj\Debug\net10.0\StringArray.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\StringArray\obj\Debug\net10.0\StringArray.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\StringArray\obj\Debug\net10.0\StringArray.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\StringArray\obj\Debug\net10.0\refint\StringArray.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\StringArray\obj\Debug\net10.0\StringArray.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\StringArray\obj\Debug\net10.0\StringArray.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\StringArray\obj\Debug\net10.0\ref\StringArray.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 5 (2nd Feb-7th Feb)\\Day 25 4th Feb 26\\DifferenceBetween2Dates\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93B9DE-4B52-C04E-4DF0-D60AC993A431}|DifferenceBetween2Dates.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 5 (2nd feb-7th feb)\\day 25 4th feb 26\\differencebetween2dates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93B9DE-4B52-C04E-4DF0-D60AC993A431}|DifferenceBetween2Dates.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 5 (2nd Feb-7th Feb)\\Day 25 4th Feb 26\\DifferenceBetween2Dates\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 5 (2nd Feb-7th Feb)\\Day 25 4th Feb 26\\DifferenceBetween2Dates\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:01:57.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

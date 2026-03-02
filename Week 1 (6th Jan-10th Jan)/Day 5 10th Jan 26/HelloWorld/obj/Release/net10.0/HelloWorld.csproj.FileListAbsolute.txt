@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\HelloWorld\bin\Release\net10.0\HelloWorld.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\HelloWorld\bin\Release\net10.0\HelloWorld.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\HelloWorld\bin\Release\net10.0\HelloWorld.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\HelloWorld\bin\Release\net10.0\HelloWorld.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\HelloWorld\bin\Release\net10.0\HelloWorld.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\HelloWorld\obj\Release\net10.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\HelloWorld\obj\Release\net10.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\HelloWorld\obj\Release\net10.0\HelloWorld.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\HelloWorld\obj\Release\net10.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\HelloWorld\obj\Release\net10.0\HelloWorld.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\HelloWorld\obj\Release\net10.0\refint\HelloWorld.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\HelloWorld\obj\Release\net10.0\HelloWorld.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\HelloWorld\obj\Release\net10.0\HelloWorld.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\HelloWorld\obj\Release\net10.0\ref\HelloWorld.dll

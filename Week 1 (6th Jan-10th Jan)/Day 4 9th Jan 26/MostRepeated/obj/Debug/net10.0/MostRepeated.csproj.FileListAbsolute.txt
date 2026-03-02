@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\MostRepeated\bin\Debug\net10.0\MostRepeated.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\MostRepeated\bin\Debug\net10.0\MostRepeated.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\MostRepeated\bin\Debug\net10.0\MostRepeated.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\MostRepeated\bin\Debug\net10.0\MostRepeated.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\MostRepeated\bin\Debug\net10.0\MostRepeated.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\MostRepeated\obj\Debug\net10.0\MostRepeated.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\MostRepeated\obj\Debug\net10.0\MostRepeated.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\MostRepeated\obj\Debug\net10.0\MostRepeated.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\MostRepeated\obj\Debug\net10.0\MostRepeated.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\MostRepeated\obj\Debug\net10.0\MostRepeated.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\MostRepeated\obj\Debug\net10.0\refint\MostRepeated.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\MostRepeated\obj\Debug\net10.0\MostRepeated.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\MostRepeated\obj\Debug\net10.0\MostRepeated.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\MostRepeated\obj\Debug\net10.0\ref\MostRepeated.dll

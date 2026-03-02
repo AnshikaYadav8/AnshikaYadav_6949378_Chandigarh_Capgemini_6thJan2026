@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 6 12th Jan 26\RemoveNegativeElementFromArray\bin\Debug\net10.0\RemoveNegativeElementFromArray.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 6 12th Jan 26\RemoveNegativeElementFromArray\bin\Debug\net10.0\RemoveNegativeElementFromArray.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 6 12th Jan 26\RemoveNegativeElementFromArray\bin\Debug\net10.0\RemoveNegativeElementFromArray.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 6 12th Jan 26\RemoveNegativeElementFromArray\bin\Debug\net10.0\RemoveNegativeElementFromArray.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 6 12th Jan 26\RemoveNegativeElementFromArray\bin\Debug\net10.0\RemoveNegativeElementFromArray.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 6 12th Jan 26\RemoveNegativeElementFromArray\obj\Debug\net10.0\RemoveNegativeElementFromArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 6 12th Jan 26\RemoveNegativeElementFromArray\obj\Debug\net10.0\RemoveNegativeElementFromArray.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 6 12th Jan 26\RemoveNegativeElementFromArray\obj\Debug\net10.0\RemoveNegativeElementFromArray.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 6 12th Jan 26\RemoveNegativeElementFromArray\obj\Debug\net10.0\RemoveNegativeElementFromArray.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 6 12th Jan 26\RemoveNegativeElementFromArray\obj\Debug\net10.0\RemoveNegativeElementFromArray.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 6 12th Jan 26\RemoveNegativeElementFromArray\obj\Debug\net10.0\refint\RemoveNegativeElementFromArray.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 6 12th Jan 26\RemoveNegativeElementFromArray\obj\Debug\net10.0\RemoveNegativeElementFromArray.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 6 12th Jan 26\RemoveNegativeElementFromArray\obj\Debug\net10.0\RemoveNegativeElementFromArray.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 6 12th Jan 26\RemoveNegativeElementFromArray\obj\Debug\net10.0\ref\RemoveNegativeElementFromArray.dll

@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\TotalDigits\bin\Debug\net10.0\TotalDigits.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\TotalDigits\bin\Debug\net10.0\TotalDigits.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\TotalDigits\bin\Debug\net10.0\TotalDigits.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\TotalDigits\bin\Debug\net10.0\TotalDigits.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\TotalDigits\bin\Debug\net10.0\TotalDigits.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\TotalDigits\obj\Debug\net10.0\TotalDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\TotalDigits\obj\Debug\net10.0\TotalDigits.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\TotalDigits\obj\Debug\net10.0\TotalDigits.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\TotalDigits\obj\Debug\net10.0\TotalDigits.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\TotalDigits\obj\Debug\net10.0\TotalDigits.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\TotalDigits\obj\Debug\net10.0\refint\TotalDigits.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\TotalDigits\obj\Debug\net10.0\TotalDigits.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\TotalDigits\obj\Debug\net10.0\TotalDigits.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 4 9th Jan 26\TotalDigits\obj\Debug\net10.0\ref\TotalDigits.dll

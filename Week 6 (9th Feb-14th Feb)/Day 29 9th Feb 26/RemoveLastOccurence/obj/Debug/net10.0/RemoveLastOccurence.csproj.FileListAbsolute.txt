@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\RemoveLastOccurence\bin\Debug\net10.0\RemoveLastOccurence.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\RemoveLastOccurence\bin\Debug\net10.0\RemoveLastOccurence.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\RemoveLastOccurence\bin\Debug\net10.0\RemoveLastOccurence.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\RemoveLastOccurence\bin\Debug\net10.0\RemoveLastOccurence.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\RemoveLastOccurence\bin\Debug\net10.0\RemoveLastOccurence.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\RemoveLastOccurence\obj\Debug\net10.0\RemoveLastOccurence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\RemoveLastOccurence\obj\Debug\net10.0\RemoveLastOccurence.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\RemoveLastOccurence\obj\Debug\net10.0\RemoveLastOccurence.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\RemoveLastOccurence\obj\Debug\net10.0\RemoveLastOccurence.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\RemoveLastOccurence\obj\Debug\net10.0\RemoveLastOccurence.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\RemoveLastOccurence\obj\Debug\net10.0\refint\RemoveLastOccurence.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\RemoveLastOccurence\obj\Debug\net10.0\RemoveLastOccurence.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\RemoveLastOccurence\obj\Debug\net10.0\RemoveLastOccurence.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\RemoveLastOccurence\obj\Debug\net10.0\ref\RemoveLastOccurence.dll

@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\ReverseAString\bin\Debug\net10.0\ReverseAString.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\ReverseAString\bin\Debug\net10.0\ReverseAString.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\ReverseAString\bin\Debug\net10.0\ReverseAString.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\ReverseAString\bin\Debug\net10.0\ReverseAString.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\ReverseAString\bin\Debug\net10.0\ReverseAString.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\ReverseAString\obj\Debug\net10.0\ReverseAString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\ReverseAString\obj\Debug\net10.0\ReverseAString.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\ReverseAString\obj\Debug\net10.0\ReverseAString.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\ReverseAString\obj\Debug\net10.0\ReverseAString.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\ReverseAString\obj\Debug\net10.0\ReverseAString.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\ReverseAString\obj\Debug\net10.0\refint\ReverseAString.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\ReverseAString\obj\Debug\net10.0\ReverseAString.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\ReverseAString\obj\Debug\net10.0\ReverseAString.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\ReverseAString\obj\Debug\net10.0\ref\ReverseAString.dll

@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\MathOperation\bin\Debug\net10.0\MathOperation.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\MathOperation\bin\Debug\net10.0\MathOperation.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\MathOperation\bin\Debug\net10.0\MathOperation.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\MathOperation\bin\Debug\net10.0\MathOperation.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\MathOperation\bin\Debug\net10.0\MathOperation.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\MathOperation\obj\Debug\net10.0\MathOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\MathOperation\obj\Debug\net10.0\MathOperation.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\MathOperation\obj\Debug\net10.0\MathOperation.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\MathOperation\obj\Debug\net10.0\MathOperation.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\MathOperation\obj\Debug\net10.0\MathOperation.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\MathOperation\obj\Debug\net10.0\refint\MathOperation.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\MathOperation\obj\Debug\net10.0\MathOperation.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\MathOperation\obj\Debug\net10.0\MathOperation.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\MathOperation\obj\Debug\net10.0\ref\MathOperation.dll

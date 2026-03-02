@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 3 (19th Jan- 24th Jan)\\Day 13 20th Jan 26\\Vowels\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2661B189-801D-8756-C4F7-68EE170DA112}|Vowels.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 3 (19th jan- 24th jan)\\day 13 20th jan 26\\vowels\\removeconsonants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2661B189-801D-8756-C4F7-68EE170DA112}|Vowels.csproj|solutionrelative:removeconsonants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2661B189-801D-8756-C4F7-68EE170DA112}|Vowels.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 3 (19th jan- 24th jan)\\day 13 20th jan 26\\vowels\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2661B189-801D-8756-C4F7-68EE170DA112}|Vowels.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RemoveConsonants.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 3 (19th Jan- 24th Jan)\\Day 13 20th Jan 26\\Vowels\\RemoveConsonants.cs",
+              "RelativeDocumentMoniker": "RemoveConsonants.cs",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 3 (19th Jan- 24th Jan)\\Day 13 20th Jan 26\\Vowels\\RemoveConsonants.cs*",
+              "RelativeToolTip": "RemoveConsonants.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:40:19.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 3 (19th Jan- 24th Jan)\\Day 13 20th Jan 26\\Vowels\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 3 (19th Jan- 24th Jan)\\Day 13 20th Jan 26\\Vowels\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:38:33.679Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

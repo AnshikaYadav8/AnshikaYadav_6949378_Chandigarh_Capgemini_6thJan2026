@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 24 3rd Feb 26\LocationCodeUpdate\bin\Debug\net10.0\LocationCodeUpdate.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 24 3rd Feb 26\LocationCodeUpdate\bin\Debug\net10.0\LocationCodeUpdate.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 24 3rd Feb 26\LocationCodeUpdate\bin\Debug\net10.0\LocationCodeUpdate.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 24 3rd Feb 26\LocationCodeUpdate\bin\Debug\net10.0\LocationCodeUpdate.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 24 3rd Feb 26\LocationCodeUpdate\bin\Debug\net10.0\LocationCodeUpdate.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 24 3rd Feb 26\LocationCodeUpdate\obj\Debug\net10.0\LocationCodeUpdate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 24 3rd Feb 26\LocationCodeUpdate\obj\Debug\net10.0\LocationCodeUpdate.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 24 3rd Feb 26\LocationCodeUpdate\obj\Debug\net10.0\LocationCodeUpdate.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 24 3rd Feb 26\LocationCodeUpdate\obj\Debug\net10.0\LocationCodeUpdate.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 24 3rd Feb 26\LocationCodeUpdate\obj\Debug\net10.0\LocationCodeUpdate.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 24 3rd Feb 26\LocationCodeUpdate\obj\Debug\net10.0\refint\LocationCodeUpdate.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 24 3rd Feb 26\LocationCodeUpdate\obj\Debug\net10.0\LocationCodeUpdate.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 24 3rd Feb 26\LocationCodeUpdate\obj\Debug\net10.0\LocationCodeUpdate.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 24 3rd Feb 26\LocationCodeUpdate\obj\Debug\net10.0\ref\LocationCodeUpdate.dll

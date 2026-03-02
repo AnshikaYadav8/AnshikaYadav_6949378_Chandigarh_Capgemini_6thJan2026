@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 1 (6th Jan-10th Jan)\\Day 4 9th Jan 26\\EvenOddSum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E60E3D3-815D-F230-00C8-49A5A14B4FDE}|EvenOddSum.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 1 (6th jan-10th jan)\\day 4 9th jan 26\\evenoddsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E60E3D3-815D-F230-00C8-49A5A14B4FDE}|EvenOddSum.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 1 (6th Jan-10th Jan)\\Day 4 9th Jan 26\\EvenOddSum\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 1 (6th Jan-10th Jan)\\Day 4 9th Jan 26\\EvenOddSum\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T15:40:40.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

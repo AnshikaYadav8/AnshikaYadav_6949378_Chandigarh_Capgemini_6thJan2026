@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 12 19th Jan 26\E-Commerce\bin\Debug\net10.0\E-Commerce.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 12 19th Jan 26\E-Commerce\bin\Debug\net10.0\E-Commerce.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 12 19th Jan 26\E-Commerce\bin\Debug\net10.0\E-Commerce.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 12 19th Jan 26\E-Commerce\bin\Debug\net10.0\E-Commerce.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 12 19th Jan 26\E-Commerce\bin\Debug\net10.0\E-Commerce.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 12 19th Jan 26\E-Commerce\obj\Debug\net10.0\E-Commerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 12 19th Jan 26\E-Commerce\obj\Debug\net10.0\E-Commerce.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 12 19th Jan 26\E-Commerce\obj\Debug\net10.0\E-Commerce.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 12 19th Jan 26\E-Commerce\obj\Debug\net10.0\E-Commerce.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 12 19th Jan 26\E-Commerce\obj\Debug\net10.0\E-Commerce.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 12 19th Jan 26\E-Commerce\obj\Debug\net10.0\refint\E-Commerce.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 12 19th Jan 26\E-Commerce\obj\Debug\net10.0\E-Commerce.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 12 19th Jan 26\E-Commerce\obj\Debug\net10.0\E-Commerce.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 12 19th Jan 26\E-Commerce\obj\Debug\net10.0\ref\E-Commerce.dll

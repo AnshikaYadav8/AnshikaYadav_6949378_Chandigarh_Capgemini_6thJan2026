@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\HexColorCode\bin\Debug\net10.0\HexColorCode.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\HexColorCode\bin\Debug\net10.0\HexColorCode.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\HexColorCode\bin\Debug\net10.0\HexColorCode.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\HexColorCode\bin\Debug\net10.0\HexColorCode.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\HexColorCode\bin\Debug\net10.0\HexColorCode.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\HexColorCode\obj\Debug\net10.0\HexColorCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\HexColorCode\obj\Debug\net10.0\HexColorCode.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\HexColorCode\obj\Debug\net10.0\HexColorCode.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\HexColorCode\obj\Debug\net10.0\HexColorCode.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\HexColorCode\obj\Debug\net10.0\HexColorCode.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\HexColorCode\obj\Debug\net10.0\refint\HexColorCode.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\HexColorCode\obj\Debug\net10.0\HexColorCode.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\HexColorCode\obj\Debug\net10.0\HexColorCode.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 21 30th Jan\HexColorCode\obj\Debug\net10.0\ref\HexColorCode.dll

@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\SecondLargestElement\bin\Debug\net10.0\SecondLargestElement.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\SecondLargestElement\bin\Debug\net10.0\SecondLargestElement.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\SecondLargestElement\bin\Debug\net10.0\SecondLargestElement.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\SecondLargestElement\bin\Debug\net10.0\SecondLargestElement.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\SecondLargestElement\bin\Debug\net10.0\SecondLargestElement.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\SecondLargestElement\obj\Debug\net10.0\SecondLargestElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\SecondLargestElement\obj\Debug\net10.0\SecondLargestElement.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\SecondLargestElement\obj\Debug\net10.0\SecondLargestElement.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\SecondLargestElement\obj\Debug\net10.0\SecondLargestElement.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\SecondLargestElement\obj\Debug\net10.0\SecondLargestElement.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\SecondLargestElement\obj\Debug\net10.0\refint\SecondLargestElement.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\SecondLargestElement\obj\Debug\net10.0\SecondLargestElement.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\SecondLargestElement\obj\Debug\net10.0\SecondLargestElement.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\SecondLargestElement\obj\Debug\net10.0\ref\SecondLargestElement.dll

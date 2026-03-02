@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>User Authentication</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+<!-- Choice Screen -->
+
+<div id="choice" class="card">
+<h2>Welcome</h2>
+<p>Are you already a user?</p>
+
+<button onclick="showLogin()">Login</button>
+<button onclick="showRegister()">Sign Up</button>
+</div>
+
+
+<!-- Login Form -->
+
+<div id="loginForm" class="card hidden">
+
+<h2>Login</h2>
+
+<label>Username</label>
+<input type="text" placeholder="Enter username">
+
+<label>Password</label>
+<input type="password" placeholder="Enter password">
+
+<button>Login</button>
+
+<p class="back" onclick="goBack()">← Back</p>
+
+</div>
+
+
+<!-- Registration Form -->
+
+<div id="registerForm" class="card hidden">
+
+<h2>Sign Up</h2>
+
+<label>Username</label>
+<input type="text" placeholder="Choose username">
+
+<label>Email</label>
+<input type="email" placeholder="Enter email">
+
+<label>Password</label>
+<input type="password" placeholder="Create password">
+
+<button>Register</button>
+
+<p class="back" onclick="goBack()">← Back</p>
+
+</div>
+
+</div>
+
+<script>
+
+function showLogin(){
+document.getElementById("choice").style.display="none";
+document.getElementById("loginForm").style.display="block";
+}
+
+function showRegister(){
+document.getElementById("choice").style.display="none";
+document.getElementById("registerForm").style.display="block";
+}
+
+function goBack(){
+document.getElementById("choice").style.display="block";
+document.getElementById("loginForm").style.display="none";
+document.getElementById("registerForm").style.display="none";
+}
+
+</script>
+
+</body>
+</html>

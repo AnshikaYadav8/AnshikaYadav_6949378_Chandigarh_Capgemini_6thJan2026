@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "EnterSubstringAtPosition/1.0.0": {
+        "runtime": {
+          "EnterSubstringAtPosition.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EnterSubstringAtPosition/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

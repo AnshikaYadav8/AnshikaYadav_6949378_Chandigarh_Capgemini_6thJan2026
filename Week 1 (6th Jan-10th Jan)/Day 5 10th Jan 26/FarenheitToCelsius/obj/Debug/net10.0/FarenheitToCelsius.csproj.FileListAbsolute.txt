@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\FarenheitToCelsius\bin\Debug\net10.0\FarenheitToCelsius.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\FarenheitToCelsius\bin\Debug\net10.0\FarenheitToCelsius.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\FarenheitToCelsius\bin\Debug\net10.0\FarenheitToCelsius.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\FarenheitToCelsius\bin\Debug\net10.0\FarenheitToCelsius.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\FarenheitToCelsius\bin\Debug\net10.0\FarenheitToCelsius.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\FarenheitToCelsius\obj\Debug\net10.0\FarenheitToCelsius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\FarenheitToCelsius\obj\Debug\net10.0\FarenheitToCelsius.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\FarenheitToCelsius\obj\Debug\net10.0\FarenheitToCelsius.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\FarenheitToCelsius\obj\Debug\net10.0\FarenheitToCelsius.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\FarenheitToCelsius\obj\Debug\net10.0\FarenheitToCelsius.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\FarenheitToCelsius\obj\Debug\net10.0\refint\FarenheitToCelsius.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\FarenheitToCelsius\obj\Debug\net10.0\FarenheitToCelsius.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\FarenheitToCelsius\obj\Debug\net10.0\FarenheitToCelsius.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 1 (6th Jan-10th Jan)\Day 5 10th Jan 26\FarenheitToCelsius\obj\Debug\net10.0\ref\FarenheitToCelsius.dll

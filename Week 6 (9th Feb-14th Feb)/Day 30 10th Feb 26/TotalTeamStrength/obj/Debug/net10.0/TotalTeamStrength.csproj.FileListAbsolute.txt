@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\TotalTeamStrength\bin\Debug\net10.0\TotalTeamStrength.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\TotalTeamStrength\bin\Debug\net10.0\TotalTeamStrength.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\TotalTeamStrength\bin\Debug\net10.0\TotalTeamStrength.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\TotalTeamStrength\bin\Debug\net10.0\TotalTeamStrength.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\TotalTeamStrength\bin\Debug\net10.0\TotalTeamStrength.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\TotalTeamStrength\obj\Debug\net10.0\TotalTeamStrength.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\TotalTeamStrength\obj\Debug\net10.0\TotalTeamStrength.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\TotalTeamStrength\obj\Debug\net10.0\TotalTeamStrength.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\TotalTeamStrength\obj\Debug\net10.0\TotalTeamStrength.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\TotalTeamStrength\obj\Debug\net10.0\TotalTeamStrength.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\TotalTeamStrength\obj\Debug\net10.0\refint\TotalTeamStrength.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\TotalTeamStrength\obj\Debug\net10.0\TotalTeamStrength.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\TotalTeamStrength\obj\Debug\net10.0\TotalTeamStrength.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\TotalTeamStrength\obj\Debug\net10.0\ref\TotalTeamStrength.dll

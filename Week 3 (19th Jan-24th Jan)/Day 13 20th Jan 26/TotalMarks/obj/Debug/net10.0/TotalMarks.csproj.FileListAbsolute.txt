@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\TotalMarks\obj\Debug\net10.0\TotalMarks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\TotalMarks\obj\Debug\net10.0\TotalMarks.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\TotalMarks\obj\Debug\net10.0\TotalMarks.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\TotalMarks\obj\Debug\net10.0\TotalMarks.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\TotalMarks\bin\Debug\net10.0\TotalMarks.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\TotalMarks\bin\Debug\net10.0\TotalMarks.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\TotalMarks\bin\Debug\net10.0\TotalMarks.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\TotalMarks\bin\Debug\net10.0\TotalMarks.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\TotalMarks\bin\Debug\net10.0\TotalMarks.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\TotalMarks\obj\Debug\net10.0\TotalMarks.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\TotalMarks\obj\Debug\net10.0\refint\TotalMarks.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\TotalMarks\obj\Debug\net10.0\TotalMarks.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\TotalMarks\obj\Debug\net10.0\TotalMarks.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\TotalMarks\obj\Debug\net10.0\ref\TotalMarks.dll

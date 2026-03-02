@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 7 13th Jan 26\AscendingDescending\bin\Debug\net10.0\AscendingDescending.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 7 13th Jan 26\AscendingDescending\bin\Debug\net10.0\AscendingDescending.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 7 13th Jan 26\AscendingDescending\bin\Debug\net10.0\AscendingDescending.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 7 13th Jan 26\AscendingDescending\bin\Debug\net10.0\AscendingDescending.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 7 13th Jan 26\AscendingDescending\bin\Debug\net10.0\AscendingDescending.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 7 13th Jan 26\AscendingDescending\obj\Debug\net10.0\AscendingDescending.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 7 13th Jan 26\AscendingDescending\obj\Debug\net10.0\AscendingDescending.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 7 13th Jan 26\AscendingDescending\obj\Debug\net10.0\AscendingDescending.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 7 13th Jan 26\AscendingDescending\obj\Debug\net10.0\AscendingDescending.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 7 13th Jan 26\AscendingDescending\obj\Debug\net10.0\AscendingDescending.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 7 13th Jan 26\AscendingDescending\obj\Debug\net10.0\refint\AscendingDescending.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 7 13th Jan 26\AscendingDescending\obj\Debug\net10.0\AscendingDescending.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 7 13th Jan 26\AscendingDescending\obj\Debug\net10.0\AscendingDescending.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 7 13th Jan 26\AscendingDescending\obj\Debug\net10.0\ref\AscendingDescending.dll

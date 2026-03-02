@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\BinaryStringSwaps\bin\Debug\net10.0\BinaryStringSwaps.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\BinaryStringSwaps\bin\Debug\net10.0\BinaryStringSwaps.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\BinaryStringSwaps\bin\Debug\net10.0\BinaryStringSwaps.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\BinaryStringSwaps\bin\Debug\net10.0\BinaryStringSwaps.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\BinaryStringSwaps\bin\Debug\net10.0\BinaryStringSwaps.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\BinaryStringSwaps\obj\Debug\net10.0\BinaryStringSwaps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\BinaryStringSwaps\obj\Debug\net10.0\BinaryStringSwaps.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\BinaryStringSwaps\obj\Debug\net10.0\BinaryStringSwaps.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\BinaryStringSwaps\obj\Debug\net10.0\BinaryStringSwaps.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\BinaryStringSwaps\obj\Debug\net10.0\BinaryStringSwaps.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\BinaryStringSwaps\obj\Debug\net10.0\refint\BinaryStringSwaps.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\BinaryStringSwaps\obj\Debug\net10.0\BinaryStringSwaps.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\BinaryStringSwaps\obj\Debug\net10.0\BinaryStringSwaps.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\BinaryStringSwaps\obj\Debug\net10.0\ref\BinaryStringSwaps.dll

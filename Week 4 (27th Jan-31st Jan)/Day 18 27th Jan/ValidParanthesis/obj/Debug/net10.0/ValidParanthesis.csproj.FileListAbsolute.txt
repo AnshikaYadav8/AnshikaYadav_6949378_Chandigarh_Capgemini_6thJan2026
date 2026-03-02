@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\ValidParanthesis\bin\Debug\net10.0\ValidParanthesis.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\ValidParanthesis\bin\Debug\net10.0\ValidParanthesis.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\ValidParanthesis\bin\Debug\net10.0\ValidParanthesis.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\ValidParanthesis\bin\Debug\net10.0\ValidParanthesis.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\ValidParanthesis\bin\Debug\net10.0\ValidParanthesis.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\ValidParanthesis\obj\Debug\net10.0\ValidParanthesis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\ValidParanthesis\obj\Debug\net10.0\ValidParanthesis.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\ValidParanthesis\obj\Debug\net10.0\ValidParanthesis.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\ValidParanthesis\obj\Debug\net10.0\ValidParanthesis.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\ValidParanthesis\obj\Debug\net10.0\ValidParanthesis.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\ValidParanthesis\obj\Debug\net10.0\refint\ValidParanthesis.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\ValidParanthesis\obj\Debug\net10.0\ValidParanthesis.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\ValidParanthesis\obj\Debug\net10.0\ValidParanthesis.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 4 (27th Jan-31st Jan)\Day 18 27th Jan\ValidParanthesis\obj\Debug\net10.0\ref\ValidParanthesis.dll

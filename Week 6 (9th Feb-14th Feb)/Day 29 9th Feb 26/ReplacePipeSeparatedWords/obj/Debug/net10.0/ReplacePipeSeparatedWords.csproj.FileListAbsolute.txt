@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ReplacePipeSeparatedWords\bin\Debug\net10.0\ReplacePipeSeparatedWords.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ReplacePipeSeparatedWords\bin\Debug\net10.0\ReplacePipeSeparatedWords.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ReplacePipeSeparatedWords\bin\Debug\net10.0\ReplacePipeSeparatedWords.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ReplacePipeSeparatedWords\bin\Debug\net10.0\ReplacePipeSeparatedWords.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ReplacePipeSeparatedWords\bin\Debug\net10.0\ReplacePipeSeparatedWords.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ReplacePipeSeparatedWords\obj\Debug\net10.0\ReplacePipeSeparatedWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ReplacePipeSeparatedWords\obj\Debug\net10.0\ReplacePipeSeparatedWords.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ReplacePipeSeparatedWords\obj\Debug\net10.0\ReplacePipeSeparatedWords.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ReplacePipeSeparatedWords\obj\Debug\net10.0\ReplacePipeSeparatedWords.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ReplacePipeSeparatedWords\obj\Debug\net10.0\ReplacePipeSeparatedWords.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ReplacePipeSeparatedWords\obj\Debug\net10.0\refint\ReplacePipeSeparatedWords.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ReplacePipeSeparatedWords\obj\Debug\net10.0\ReplacePipeSeparatedWords.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ReplacePipeSeparatedWords\obj\Debug\net10.0\ReplacePipeSeparatedWords.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\ReplacePipeSeparatedWords\obj\Debug\net10.0\ref\ReplacePipeSeparatedWords.dll

@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\ProductOfMinimumAndMaximum\bin\Debug\net10.0\ProductOfMinimumAndMaximum.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\ProductOfMinimumAndMaximum\bin\Debug\net10.0\ProductOfMinimumAndMaximum.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\ProductOfMinimumAndMaximum\bin\Debug\net10.0\ProductOfMinimumAndMaximum.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\ProductOfMinimumAndMaximum\bin\Debug\net10.0\ProductOfMinimumAndMaximum.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\ProductOfMinimumAndMaximum\bin\Debug\net10.0\ProductOfMinimumAndMaximum.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\ProductOfMinimumAndMaximum\obj\Debug\net10.0\ProductOfMinimumAndMaximum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\ProductOfMinimumAndMaximum\obj\Debug\net10.0\ProductOfMinimumAndMaximum.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\ProductOfMinimumAndMaximum\obj\Debug\net10.0\ProductOfMinimumAndMaximum.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\ProductOfMinimumAndMaximum\obj\Debug\net10.0\ProductOfMinimumAndMaximum.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\ProductOfMinimumAndMaximum\obj\Debug\net10.0\ProductOfMinimumAndMaximum.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\ProductOfMinimumAndMaximum\obj\Debug\net10.0\refint\ProductOfMinimumAndMaximum.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\ProductOfMinimumAndMaximum\obj\Debug\net10.0\ProductOfMinimumAndMaximum.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\ProductOfMinimumAndMaximum\obj\Debug\net10.0\ProductOfMinimumAndMaximum.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 2 (12th Jan-16th Jan)\Day 9 15th Jan 26\ProductOfMinimumAndMaximum\obj\Debug\net10.0\ref\ProductOfMinimumAndMaximum.dll

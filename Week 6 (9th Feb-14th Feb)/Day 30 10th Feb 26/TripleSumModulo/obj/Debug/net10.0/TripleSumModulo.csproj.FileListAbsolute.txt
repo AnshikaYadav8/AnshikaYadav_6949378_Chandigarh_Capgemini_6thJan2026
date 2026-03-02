@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\TripleSumModulo\bin\Debug\net10.0\TripleSumModulo.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\TripleSumModulo\bin\Debug\net10.0\TripleSumModulo.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\TripleSumModulo\bin\Debug\net10.0\TripleSumModulo.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\TripleSumModulo\bin\Debug\net10.0\TripleSumModulo.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\TripleSumModulo\bin\Debug\net10.0\TripleSumModulo.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\TripleSumModulo\obj\Debug\net10.0\TripleSumModulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\TripleSumModulo\obj\Debug\net10.0\TripleSumModulo.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\TripleSumModulo\obj\Debug\net10.0\TripleSumModulo.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\TripleSumModulo\obj\Debug\net10.0\TripleSumModulo.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\TripleSumModulo\obj\Debug\net10.0\TripleSumModulo.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\TripleSumModulo\obj\Debug\net10.0\refint\TripleSumModulo.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\TripleSumModulo\obj\Debug\net10.0\TripleSumModulo.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\TripleSumModulo\obj\Debug\net10.0\TripleSumModulo.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 30 10th Feb 26\TripleSumModulo\obj\Debug\net10.0\ref\TripleSumModulo.dll

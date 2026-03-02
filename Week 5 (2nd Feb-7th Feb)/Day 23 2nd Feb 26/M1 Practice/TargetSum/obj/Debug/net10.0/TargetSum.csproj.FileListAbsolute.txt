@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\M1 Practice\TargetSum\bin\Debug\net10.0\TargetSum.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\M1 Practice\TargetSum\bin\Debug\net10.0\TargetSum.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\M1 Practice\TargetSum\bin\Debug\net10.0\TargetSum.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\M1 Practice\TargetSum\bin\Debug\net10.0\TargetSum.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\M1 Practice\TargetSum\bin\Debug\net10.0\TargetSum.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\M1 Practice\TargetSum\obj\Debug\net10.0\TargetSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\M1 Practice\TargetSum\obj\Debug\net10.0\TargetSum.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\M1 Practice\TargetSum\obj\Debug\net10.0\TargetSum.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\M1 Practice\TargetSum\obj\Debug\net10.0\TargetSum.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\M1 Practice\TargetSum\obj\Debug\net10.0\TargetSum.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\M1 Practice\TargetSum\obj\Debug\net10.0\refint\TargetSum.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\M1 Practice\TargetSum\obj\Debug\net10.0\TargetSum.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\M1 Practice\TargetSum\obj\Debug\net10.0\TargetSum.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 23 2nd Feb 26\M1 Practice\TargetSum\obj\Debug\net10.0\ref\TargetSum.dll

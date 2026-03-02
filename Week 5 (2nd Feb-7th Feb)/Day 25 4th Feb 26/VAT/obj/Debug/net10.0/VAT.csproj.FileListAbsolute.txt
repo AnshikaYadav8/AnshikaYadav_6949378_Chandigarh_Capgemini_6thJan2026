@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 25 4th Feb 26\VAT\bin\Debug\net10.0\VAT.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 25 4th Feb 26\VAT\bin\Debug\net10.0\VAT.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 25 4th Feb 26\VAT\bin\Debug\net10.0\VAT.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 25 4th Feb 26\VAT\bin\Debug\net10.0\VAT.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 25 4th Feb 26\VAT\bin\Debug\net10.0\VAT.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 25 4th Feb 26\VAT\obj\Debug\net10.0\VAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 25 4th Feb 26\VAT\obj\Debug\net10.0\VAT.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 25 4th Feb 26\VAT\obj\Debug\net10.0\VAT.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 25 4th Feb 26\VAT\obj\Debug\net10.0\VAT.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 25 4th Feb 26\VAT\obj\Debug\net10.0\VAT.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 25 4th Feb 26\VAT\obj\Debug\net10.0\refint\VAT.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 25 4th Feb 26\VAT\obj\Debug\net10.0\VAT.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 25 4th Feb 26\VAT\obj\Debug\net10.0\VAT.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 5 (2nd Feb-7th Feb)\Day 25 4th Feb 26\VAT\obj\Debug\net10.0\ref\VAT.dll

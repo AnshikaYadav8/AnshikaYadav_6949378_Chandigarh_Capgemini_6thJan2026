@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\DeleteConsecutiveVowelPairs\bin\Debug\net10.0\DeleteConsecutiveVowelPairs.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\DeleteConsecutiveVowelPairs\bin\Debug\net10.0\DeleteConsecutiveVowelPairs.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\DeleteConsecutiveVowelPairs\bin\Debug\net10.0\DeleteConsecutiveVowelPairs.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\DeleteConsecutiveVowelPairs\bin\Debug\net10.0\DeleteConsecutiveVowelPairs.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\DeleteConsecutiveVowelPairs\bin\Debug\net10.0\DeleteConsecutiveVowelPairs.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\DeleteConsecutiveVowelPairs\obj\Debug\net10.0\DeleteConsecutiveVowelPairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\DeleteConsecutiveVowelPairs\obj\Debug\net10.0\DeleteConsecutiveVowelPairs.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\DeleteConsecutiveVowelPairs\obj\Debug\net10.0\DeleteConsecutiveVowelPairs.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\DeleteConsecutiveVowelPairs\obj\Debug\net10.0\DeleteConsecutiveVowelPairs.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\DeleteConsecutiveVowelPairs\obj\Debug\net10.0\DeleteConsecutiveVowelPairs.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\DeleteConsecutiveVowelPairs\obj\Debug\net10.0\refint\DeleteConsecutiveVowelPairs.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\DeleteConsecutiveVowelPairs\obj\Debug\net10.0\DeleteConsecutiveVowelPairs.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\DeleteConsecutiveVowelPairs\obj\Debug\net10.0\DeleteConsecutiveVowelPairs.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\DeleteConsecutiveVowelPairs\obj\Debug\net10.0\ref\DeleteConsecutiveVowelPairs.dll

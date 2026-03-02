@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\LuckyString\bin\Debug\net10.0\LuckyString.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\LuckyString\bin\Debug\net10.0\LuckyString.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\LuckyString\bin\Debug\net10.0\LuckyString.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\LuckyString\bin\Debug\net10.0\LuckyString.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\LuckyString\bin\Debug\net10.0\LuckyString.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\LuckyString\obj\Debug\net10.0\LuckyString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\LuckyString\obj\Debug\net10.0\LuckyString.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\LuckyString\obj\Debug\net10.0\LuckyString.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\LuckyString\obj\Debug\net10.0\LuckyString.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\LuckyString\obj\Debug\net10.0\LuckyString.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\LuckyString\obj\Debug\net10.0\refint\LuckyString.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\LuckyString\obj\Debug\net10.0\LuckyString.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\LuckyString\obj\Debug\net10.0\LuckyString.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 3 (19th Jan- 24th Jan)\Day 13 20th Jan 26\LuckyString\obj\Debug\net10.0\ref\LuckyString.dll

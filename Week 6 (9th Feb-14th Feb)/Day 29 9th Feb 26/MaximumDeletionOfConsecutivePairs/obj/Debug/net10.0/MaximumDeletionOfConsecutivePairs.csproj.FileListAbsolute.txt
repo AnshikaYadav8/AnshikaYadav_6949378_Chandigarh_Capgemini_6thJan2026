@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\MaximumDeletionOfConsecutivePairs\bin\Debug\net10.0\MaximumDeletionOfConsecutivePairs.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\MaximumDeletionOfConsecutivePairs\bin\Debug\net10.0\MaximumDeletionOfConsecutivePairs.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\MaximumDeletionOfConsecutivePairs\bin\Debug\net10.0\MaximumDeletionOfConsecutivePairs.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\MaximumDeletionOfConsecutivePairs\bin\Debug\net10.0\MaximumDeletionOfConsecutivePairs.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\MaximumDeletionOfConsecutivePairs\bin\Debug\net10.0\MaximumDeletionOfConsecutivePairs.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\MaximumDeletionOfConsecutivePairs\obj\Debug\net10.0\MaximumDeletionOfConsecutivePairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\MaximumDeletionOfConsecutivePairs\obj\Debug\net10.0\MaximumDeletionOfConsecutivePairs.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\MaximumDeletionOfConsecutivePairs\obj\Debug\net10.0\MaximumDeletionOfConsecutivePairs.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\MaximumDeletionOfConsecutivePairs\obj\Debug\net10.0\MaximumDeletionOfConsecutivePairs.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\MaximumDeletionOfConsecutivePairs\obj\Debug\net10.0\MaximumDeletionOfConsecutivePairs.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\MaximumDeletionOfConsecutivePairs\obj\Debug\net10.0\refint\MaximumDeletionOfConsecutivePairs.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\MaximumDeletionOfConsecutivePairs\obj\Debug\net10.0\MaximumDeletionOfConsecutivePairs.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\MaximumDeletionOfConsecutivePairs\obj\Debug\net10.0\MaximumDeletionOfConsecutivePairs.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 6 (9th Feb- 14th Feb)\Day 29 9th Feb 26\MaximumDeletionOfConsecutivePairs\obj\Debug\net10.0\ref\MaximumDeletionOfConsecutivePairs.dll
