@@ -1,0 +1,15 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\ProductInventorySystem\bin\Debug\net10.0\ProductInventorySystem.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\ProductInventorySystem\bin\Debug\net10.0\ProductInventorySystem.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\ProductInventorySystem\bin\Debug\net10.0\ProductInventorySystem.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\ProductInventorySystem\bin\Debug\net10.0\ProductInventorySystem.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\ProductInventorySystem\bin\Debug\net10.0\ProductInventorySystem.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\ProductInventorySystem\obj\Debug\net10.0\ProductInventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\ProductInventorySystem\obj\Debug\net10.0\ProductInventorySystem.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\ProductInventorySystem\obj\Debug\net10.0\ProductInventorySystem.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\ProductInventorySystem\obj\Debug\net10.0\ProductInventorySystem.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\ProductInventorySystem\obj\Debug\net10.0\ProductInventorySystem.sourcelink.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\ProductInventorySystem\obj\Debug\net10.0\ProductInventorySystem.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\ProductInventorySystem\obj\Debug\net10.0\refint\ProductInventorySystem.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\ProductInventorySystem\obj\Debug\net10.0\ProductInventorySystem.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\ProductInventorySystem\obj\Debug\net10.0\ProductInventorySystem.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\ProductInventorySystem\obj\Debug\net10.0\ref\ProductInventorySystem.dll

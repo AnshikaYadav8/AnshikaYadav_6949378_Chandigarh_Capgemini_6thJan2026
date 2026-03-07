@@ -1,0 +1,15 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\UserManagement\bin\Debug\net10.0\UserManagement.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\UserManagement\bin\Debug\net10.0\UserManagement.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\UserManagement\bin\Debug\net10.0\UserManagement.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\UserManagement\bin\Debug\net10.0\UserManagement.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\UserManagement\bin\Debug\net10.0\UserManagement.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\UserManagement\obj\Debug\net10.0\UserManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\UserManagement\obj\Debug\net10.0\UserManagement.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\UserManagement\obj\Debug\net10.0\UserManagement.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\UserManagement\obj\Debug\net10.0\UserManagement.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\UserManagement\obj\Debug\net10.0\UserManagement.sourcelink.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\UserManagement\obj\Debug\net10.0\UserManagement.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\UserManagement\obj\Debug\net10.0\refint\UserManagement.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\UserManagement\obj\Debug\net10.0\UserManagement.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\UserManagement\obj\Debug\net10.0\UserManagement.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\UserManagement\obj\Debug\net10.0\ref\UserManagement.dll

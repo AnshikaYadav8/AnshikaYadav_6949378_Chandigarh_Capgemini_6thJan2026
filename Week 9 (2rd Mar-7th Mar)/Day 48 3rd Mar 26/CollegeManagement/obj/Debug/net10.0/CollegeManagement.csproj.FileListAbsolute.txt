@@ -1,0 +1,15 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\CollegeManagement\bin\Debug\net10.0\CollegeManagement.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\CollegeManagement\bin\Debug\net10.0\CollegeManagement.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\CollegeManagement\bin\Debug\net10.0\CollegeManagement.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\CollegeManagement\bin\Debug\net10.0\CollegeManagement.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\CollegeManagement\bin\Debug\net10.0\CollegeManagement.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\CollegeManagement\obj\Debug\net10.0\CollegeManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\CollegeManagement\obj\Debug\net10.0\CollegeManagement.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\CollegeManagement\obj\Debug\net10.0\CollegeManagement.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\CollegeManagement\obj\Debug\net10.0\CollegeManagement.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\CollegeManagement\obj\Debug\net10.0\CollegeManagement.sourcelink.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\CollegeManagement\obj\Debug\net10.0\CollegeManagement.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\CollegeManagement\obj\Debug\net10.0\refint\CollegeManagement.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\CollegeManagement\obj\Debug\net10.0\CollegeManagement.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\CollegeManagement\obj\Debug\net10.0\CollegeManagement.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\CollegeManagement\obj\Debug\net10.0\ref\CollegeManagement.dll

@@ -1,0 +1,15 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\CarManagement\bin\Debug\net10.0\CarManagement.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\CarManagement\bin\Debug\net10.0\CarManagement.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\CarManagement\bin\Debug\net10.0\CarManagement.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\CarManagement\bin\Debug\net10.0\CarManagement.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\CarManagement\bin\Debug\net10.0\CarManagement.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\CarManagement\obj\Debug\net10.0\CarManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\CarManagement\obj\Debug\net10.0\CarManagement.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\CarManagement\obj\Debug\net10.0\CarManagement.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\CarManagement\obj\Debug\net10.0\CarManagement.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\CarManagement\obj\Debug\net10.0\CarManagement.sourcelink.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\CarManagement\obj\Debug\net10.0\CarManagement.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\CarManagement\obj\Debug\net10.0\refint\CarManagement.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\CarManagement\obj\Debug\net10.0\CarManagement.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\CarManagement\obj\Debug\net10.0\CarManagement.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\CarManagement\obj\Debug\net10.0\ref\CarManagement.dll

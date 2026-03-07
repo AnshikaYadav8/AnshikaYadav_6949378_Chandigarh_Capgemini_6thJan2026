@@ -1,0 +1,15 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\UserInheritance\bin\Debug\net10.0\UserInheritance.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\UserInheritance\bin\Debug\net10.0\UserInheritance.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\UserInheritance\bin\Debug\net10.0\UserInheritance.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\UserInheritance\bin\Debug\net10.0\UserInheritance.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\UserInheritance\bin\Debug\net10.0\UserInheritance.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\UserInheritance\obj\Debug\net10.0\UserInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\UserInheritance\obj\Debug\net10.0\UserInheritance.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\UserInheritance\obj\Debug\net10.0\UserInheritance.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\UserInheritance\obj\Debug\net10.0\UserInheritance.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\UserInheritance\obj\Debug\net10.0\UserInheritance.sourcelink.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\UserInheritance\obj\Debug\net10.0\UserInheritance.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\UserInheritance\obj\Debug\net10.0\refint\UserInheritance.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\UserInheritance\obj\Debug\net10.0\UserInheritance.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\UserInheritance\obj\Debug\net10.0\UserInheritance.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\UserInheritance\obj\Debug\net10.0\ref\UserInheritance.dll

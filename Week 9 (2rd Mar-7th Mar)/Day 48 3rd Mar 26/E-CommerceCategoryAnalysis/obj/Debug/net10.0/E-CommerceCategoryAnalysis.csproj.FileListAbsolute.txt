@@ -1,0 +1,15 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\E-CommerceCategoryAnalysis\bin\Debug\net10.0\E-CommerceCategoryAnalysis.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\E-CommerceCategoryAnalysis\bin\Debug\net10.0\E-CommerceCategoryAnalysis.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\E-CommerceCategoryAnalysis\bin\Debug\net10.0\E-CommerceCategoryAnalysis.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\E-CommerceCategoryAnalysis\bin\Debug\net10.0\E-CommerceCategoryAnalysis.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\E-CommerceCategoryAnalysis\bin\Debug\net10.0\E-CommerceCategoryAnalysis.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\E-CommerceCategoryAnalysis\obj\Debug\net10.0\E-CommerceCategoryAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\E-CommerceCategoryAnalysis\obj\Debug\net10.0\E-CommerceCategoryAnalysis.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\E-CommerceCategoryAnalysis\obj\Debug\net10.0\E-CommerceCategoryAnalysis.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\E-CommerceCategoryAnalysis\obj\Debug\net10.0\E-CommerceCategoryAnalysis.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\E-CommerceCategoryAnalysis\obj\Debug\net10.0\E-CommerceCategoryAnalysis.sourcelink.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\E-CommerceCategoryAnalysis\obj\Debug\net10.0\E-CommerceCategoryAnalysis.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\E-CommerceCategoryAnalysis\obj\Debug\net10.0\refint\E-CommerceCategoryAnalysis.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\E-CommerceCategoryAnalysis\obj\Debug\net10.0\E-CommerceCategoryAnalysis.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\E-CommerceCategoryAnalysis\obj\Debug\net10.0\E-CommerceCategoryAnalysis.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\E-CommerceCategoryAnalysis\obj\Debug\net10.0\ref\E-CommerceCategoryAnalysis.dll

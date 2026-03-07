@@ -1,0 +1,15 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\AuthenticationStateSystem\bin\Debug\net10.0\AuthenticationStateSystem.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\AuthenticationStateSystem\bin\Debug\net10.0\AuthenticationStateSystem.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\AuthenticationStateSystem\bin\Debug\net10.0\AuthenticationStateSystem.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\AuthenticationStateSystem\bin\Debug\net10.0\AuthenticationStateSystem.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\AuthenticationStateSystem\bin\Debug\net10.0\AuthenticationStateSystem.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\AuthenticationStateSystem\obj\Debug\net10.0\AuthenticationStateSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\AuthenticationStateSystem\obj\Debug\net10.0\AuthenticationStateSystem.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\AuthenticationStateSystem\obj\Debug\net10.0\AuthenticationStateSystem.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\AuthenticationStateSystem\obj\Debug\net10.0\AuthenticationStateSystem.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\AuthenticationStateSystem\obj\Debug\net10.0\AuthenticationStateSystem.sourcelink.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\AuthenticationStateSystem\obj\Debug\net10.0\AuthenticationStateSystem.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\AuthenticationStateSystem\obj\Debug\net10.0\refint\AuthenticationStateSystem.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\AuthenticationStateSystem\obj\Debug\net10.0\AuthenticationStateSystem.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\AuthenticationStateSystem\obj\Debug\net10.0\AuthenticationStateSystem.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 9 (2rd Mar-7th Mar)\Day 48 3rd Mar 26\AuthenticationStateSystem\obj\Debug\net10.0\ref\AuthenticationStateSystem.dll
