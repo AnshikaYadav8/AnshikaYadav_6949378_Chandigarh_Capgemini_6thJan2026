@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 10 (9th Mar-14th Mar)\\Day 54 11th Mar 26\\ECommerceMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47C79B3B-E91F-4C58-9965-942520BE23B6}|ECommerceMVC.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 10 (9th mar-14th mar)\\day 54 11th mar 26\\ecommercemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47C79B3B-E91F-4C58-9965-942520BE23B6}|ECommerceMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C79B3B-E91F-4C58-9965-942520BE23B6}|ECommerceMVC.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 10 (9th mar-14th mar)\\day 54 11th mar 26\\ecommercemvc\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47C79B3B-E91F-4C58-9965-942520BE23B6}|ECommerceMVC.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 10 (9th Mar-14th Mar)\\Day 54 11th Mar 26\\ECommerceMVC\\Controllers\\CustomersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\CustomersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C79B3B-E91F-4C58-9965-942520BE23B6}|ECommerceMVC.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 10 (9th mar-14th mar)\\day 54 11th mar 26\\ecommercemvc\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47C79B3B-E91F-4C58-9965-942520BE23B6}|ECommerceMVC.csproj|solutionrelative:models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C79B3B-E91F-4C58-9965-942520BE23B6}|ECommerceMVC.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 10 (9th mar-14th mar)\\day 54 11th mar 26\\ecommercemvc\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47C79B3B-E91F-4C58-9965-942520BE23B6}|ECommerceMVC.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C79B3B-E91F-4C58-9965-942520BE23B6}|ECommerceMVC.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 10 (9th mar-14th mar)\\day 54 11th mar 26\\ecommercemvc\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47C79B3B-E91F-4C58-9965-942520BE23B6}|ECommerceMVC.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 10 (9th Mar-14th Mar)\\Day 54 11th Mar 26\\ECommerceMVC\\Views\\Order\\OrderSummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Order\\OrderSummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C79B3B-E91F-4C58-9965-942520BE23B6}|ECommerceMVC.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 10 (9th mar-14th mar)\\day 54 11th mar 26\\ecommercemvc\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47C79B3B-E91F-4C58-9965-942520BE23B6}|ECommerceMVC.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 10 (9th Mar-14th Mar)\\Day 54 11th Mar 26\\ECommerceMVC\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C79B3B-E91F-4C58-9965-942520BE23B6}|ECommerceMVC.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 10 (9th mar-14th mar)\\day 54 11th mar 26\\ecommercemvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{47C79B3B-E91F-4C58-9965-942520BE23B6}|ECommerceMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 10 (9th Mar-14th Mar)\\Day 54 11th Mar 26\\ECommerceMVC\\Migrations\\20260313102254_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260313102254_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C79B3B-E91F-4C58-9965-942520BE23B6}|ECommerceMVC.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 10 (9th mar-14th mar)\\day 54 11th mar 26\\ecommercemvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47C79B3B-E91F-4C58-9965-942520BE23B6}|ECommerceMVC.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C79B3B-E91F-4C58-9965-942520BE23B6}|ECommerceMVC.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 10 (9th mar-14th mar)\\day 54 11th mar 26\\ecommercemvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47C79B3B-E91F-4C58-9965-942520BE23B6}|ECommerceMVC.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 10 (9th Mar-14th Mar)\\Day 54 11th Mar 26\\ECommerceMVC\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 10 (9th Mar-14th Mar)\\Day 54 11th Mar 26\\ECommerceMVC\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T10:28:50.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 10 (9th Mar-14th Mar)\\Day 54 11th Mar 26\\ECommerceMVC\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 10 (9th Mar-14th Mar)\\Day 54 11th Mar 26\\ECommerceMVC\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T10:26:35.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 10 (9th Mar-14th Mar)\\Day 54 11th Mar 26\\ECommerceMVC\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 10 (9th Mar-14th Mar)\\Day 54 11th Mar 26\\ECommerceMVC\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T10:13:23.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 10 (9th Mar-14th Mar)\\Day 54 11th Mar 26\\ECommerceMVC\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 10 (9th Mar-14th Mar)\\Day 54 11th Mar 26\\ECommerceMVC\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T10:14:49.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 10 (9th Mar-14th Mar)\\Day 54 11th Mar 26\\ECommerceMVC\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 10 (9th Mar-14th Mar)\\Day 54 11th Mar 26\\ECommerceMVC\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T10:12:16.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 10 (9th Mar-14th Mar)\\Day 54 11th Mar 26\\ECommerceMVC\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 10 (9th Mar-14th Mar)\\Day 54 11th Mar 26\\ECommerceMVC\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T10:14:14.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 10 (9th Mar-14th Mar)\\Day 54 11th Mar 26\\ECommerceMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 10 (9th Mar-14th Mar)\\Day 54 11th Mar 26\\ECommerceMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T10:15:09.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderSummary.cshtml",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 10 (9th Mar-14th Mar)\\Day 54 11th Mar 26\\ECommerceMVC\\Views\\Order\\OrderSummary.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\OrderSummary.cshtml",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 10 (9th Mar-14th Mar)\\Day 54 11th Mar 26\\ECommerceMVC\\Views\\Order\\OrderSummary.cshtml",
+              "RelativeToolTip": "Views\\Order\\OrderSummary.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T10:35:13.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 10 (9th Mar-14th Mar)\\Day 54 11th Mar 26\\ECommerceMVC\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 10 (9th Mar-14th Mar)\\Day 54 11th Mar 26\\ECommerceMVC\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T10:26:07.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260313102254_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 10 (9th Mar-14th Mar)\\Day 54 11th Mar 26\\ECommerceMVC\\Migrations\\20260313102254_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260313102254_InitialCreate.cs",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 10 (9th Mar-14th Mar)\\Day 54 11th Mar 26\\ECommerceMVC\\Migrations\\20260313102254_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260313102254_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T10:22:55.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 10 (9th Mar-14th Mar)\\Day 54 11th Mar 26\\ECommerceMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 10 (9th Mar-14th Mar)\\Day 54 11th Mar 26\\ECommerceMVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-13T10:16:42.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 10 (9th Mar-14th Mar)\\Day 54 11th Mar 26\\ECommerceMVC\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 10 (9th Mar-14th Mar)\\Day 54 11th Mar 26\\ECommerceMVC\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T10:13:04.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 10 (9th Mar-14th Mar)\\Day 54 11th Mar 26\\ECommerceMVC\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 10 (9th Mar-14th Mar)\\Day 54 11th Mar 26\\ECommerceMVC\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T10:12:41.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

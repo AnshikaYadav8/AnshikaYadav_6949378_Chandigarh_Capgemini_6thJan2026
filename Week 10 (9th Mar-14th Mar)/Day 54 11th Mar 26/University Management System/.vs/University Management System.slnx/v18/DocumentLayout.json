@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 10 (9th Mar-14th Mar)\\Day 54 11th Mar 26\\University Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{001DC3C4-4BD8-47B5-F527-AE8BE6EF472B}|University Management System.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 10 (9th mar-14th mar)\\day 54 11th mar 26\\university management system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{001DC3C4-4BD8-47B5-F527-AE8BE6EF472B}|University Management System.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001DC3C4-4BD8-47B5-F527-AE8BE6EF472B}|University Management System.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 10 (9th mar-14th mar)\\day 54 11th mar 26\\university management system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{001DC3C4-4BD8-47B5-F527-AE8BE6EF472B}|University Management System.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 272,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 10 (9th Mar-14th Mar)\\Day 54 11th Mar 26\\University Management System\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 10 (9th Mar-14th Mar)\\Day 54 11th Mar 26\\University Management System\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-12T06:19:23.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 10 (9th Mar-14th Mar)\\Day 54 11th Mar 26\\University Management System\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 10 (9th Mar-14th Mar)\\Day 54 11th Mar 26\\University Management System\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwCEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T06:10:55.006Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

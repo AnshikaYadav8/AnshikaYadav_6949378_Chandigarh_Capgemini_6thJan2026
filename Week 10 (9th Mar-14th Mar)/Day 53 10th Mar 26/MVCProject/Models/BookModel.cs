@@ -1,0 +1,18 @@
+﻿using System.ComponentModel.DataAnnotations.Schema;
+using System.ComponentModel.DataAnnotations;
+
+namespace MVCProject.Models
+{
+    [Table("tblBooks")]
+    public class BookModel
+    {
+        [Key]
+        public int BookId { get; set; }
+        public string Title { get; set; }
+        public string Author { get; set; }
+        public int Price { get; set; }
+        public string Category { get; set; }
+        public int PublicationYear { get; set; }
+        public int Stock { get; set; }
+    }
+}

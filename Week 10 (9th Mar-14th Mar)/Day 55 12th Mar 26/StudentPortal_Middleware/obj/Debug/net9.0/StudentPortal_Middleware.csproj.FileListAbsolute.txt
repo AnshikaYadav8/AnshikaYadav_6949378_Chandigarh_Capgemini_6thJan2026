@@ -1,0 +1,393 @@
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\appsettings.Development.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\appsettings.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\StudentPortal_Middleware.staticwebassets.runtime.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\StudentPortal_Middleware.staticwebassets.endpoints.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\StudentPortal_Middleware.exe
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\StudentPortal_Middleware.deps.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\StudentPortal_Middleware.runtimeconfig.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\StudentPortal_Middleware.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\StudentPortal_Middleware.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\Humanizer.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\System.CodeDom.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\System.Text.Json.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\StudentPortal_Middleware.csproj.AssemblyReference.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\StudentPortal_Middleware.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\StudentPortal_Middleware.AssemblyInfoInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\StudentPortal_Middleware.AssemblyInfo.cs
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\StudentPortal_Middleware.csproj.CoreCompileInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\StudentPortal_Middleware.MvcApplicationPartsAssemblyInfo.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\StudentPortal_Middleware.RazorAssemblyInfo.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\StudentPortal_Middleware.RazorAssemblyInfo.cs
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\StudentPortal_Middleware.sourcelink.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\scopedcss\bundle\StudentPortal_Middleware.styles.css
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\scopedcss\projectbundle\StudentPortal_Middleware.bundle.scp.css
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\3j5vn9p0c7-b9sayid5wm.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\fnzp0sibmg-61n19gt1b8.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\rucnv5hfz7-xtxxf3hu2r.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\vkj9v4vohh-bqjiyaj88i.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\gax6nvq9rl-c2jlpeoesf.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\wfvmfguprf-erw9l3u2r3.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\c3qy4rel0s-aexeepp0ev.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\oqtalrko72-d7shbmvgxk.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\ggavdv562c-ausgxo2sd3.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\ckce8z1mep-k8d9w2qqmf.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\c1rmj5kqw7-cosvhxvwiu.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\snu0yq6a0z-ub07r2b239.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\enbc0s28i2-fvhpjtyr6v.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\g19scythic-b7pk76d08c.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\n0mi00xe7l-fsbi9cje9m.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\jdy6wzl7t6-rzd6atqjts.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\yl2x6a76q2-ee0r1s7dh0.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\ml4uack3ab-dxx9fxp4il.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\hly15wcqpu-jd9uben2k1.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\egtqgrjobe-khv3u5hwcm.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\7c5fzxyymq-r4e9w2rdcm.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\lbdmgz5e7o-lcd1t2u6c8.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\xe0h0job9e-c2oey78nd0.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\ktq7lvin03-tdbxkamptv.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\5htiyzsuyw-j5mq2jizvt.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\9gvaej2llg-06098lyss8.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\1u1ck8kbm2-nvvlpmu67g.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\43byn2biqi-s35ty4nyc5.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\kxpsgsmcfu-pj5nd1wqec.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\k8lnjjfngm-46ein0sx1k.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\egfd0566rb-v0zj4ognzu.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\mmk728zv11-37tfw0ft22.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\w0t1bnk6tb-hrwsygsryq.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\g3l1844yjo-pk9g2wxc8p.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\dy7832fy5k-ft3s53vfgj.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\axdsstb77w-6cfz1n2cew.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\41h3wt32ur-6pdc2jztkx.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\rd9mxilm9m-493y06b0oq.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\s7kx6waab5-iovd86k7lj.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\7xzadsxyio-vr1egmr9el.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\5wgqenleft-kbrnm935zg.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\tq7hmefza5-jj8uyg4cgr.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\gls5qvc4k9-y7v9cxd14o.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\oyf13357e6-notf2xhcfb.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\vqhyppghie-h1s4sie4z3.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\iksx0cpa6m-63fj8s7r0e.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\ff7n8dynfk-0j3bgjxly4.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\b4vfg215g6-47otxtyo56.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\cqnljem09i-4v8eqarkd7.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\2yhtw6aysk-356vix0kms.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\10hcc9fk0a-83jwlth58m.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\as2ixbzroi-mrlpezrjn3.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\ilo7n6q631-lzl9nlhx6b.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\7tryo20fmu-ag7o75518u.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\04e2c4bmki-x0q3zqp4vz.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\0donp58gbn-0i3buxo5is.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\dueic3dpwr-o1o13a6vjx.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\2pqy30fgjr-ttgo8qnofa.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\0osirdu0gi-2z0ns9nrw6.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\72gp85r2fv-muycvpuwrr.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\bb2xilz8lb-87fc7y1x7t.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\e4cpvtfdq9-mlv21k5csn.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\1l4cqr1wbg-z4ctyi6vzm.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\compressed\m1rkzzqau5-z4ctyi6vzm.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\staticwebassets.build.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\staticwebassets.development.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\StudentP.AE045EF4.Up2Date
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\StudentPortal_Middleware.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\refint\StudentPortal_Middleware.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\StudentPortal_Middleware.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\StudentPortal_Middleware.genruntimeconfig.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\StudentPortal_Middleware\obj\Debug\net9.0\ref\StudentPortal_Middleware.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\appsettings.Development.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\appsettings.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\StudentPortal_Middleware.staticwebassets.runtime.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\StudentPortal_Middleware.staticwebassets.endpoints.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\StudentPortal_Middleware.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\StudentPortal_Middleware.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\StudentPortal_Middleware.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\StudentPortal_Middleware.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\StudentPortal_Middleware.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\Humanizer.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\System.CodeDom.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\System.Text.Json.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\StudentPortal_Middleware.csproj.AssemblyReference.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\StudentPortal_Middleware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\StudentPortal_Middleware.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\StudentPortal_Middleware.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\StudentPortal_Middleware.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\StudentPortal_Middleware.MvcApplicationPartsAssemblyInfo.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\StudentPortal_Middleware.RazorAssemblyInfo.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\StudentPortal_Middleware.RazorAssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\StudentPortal_Middleware.sourcelink.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\scopedcss\bundle\StudentPortal_Middleware.styles.css
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\scopedcss\projectbundle\StudentPortal_Middleware.bundle.scp.css
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\5f7ned9thp-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\vlr9mzli9o-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\n8wl7xwm3d-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\881q25x3ft-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\as13vowmg9-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\zvtjg87q6k-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\t9606bjl52-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\xd0yo4oia5-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\z21n3erdvy-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\wxeyrx4l2b-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\wax7x8k707-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\z3yngjkl6g-{0}-ub07r2b239-ub07r2b239.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\br4aghcorz-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\z8yzgmlb05-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\heusbj56ch-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\midgoizion-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\pwa9ku7u6k-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\b5yii2azlv-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\671cds1ruq-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\vhoi6r2rjz-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\yuto8fzue7-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\ckr9nhqxhe-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\abzrbips0o-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\vojjgbmsrj-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\ardhcubh5z-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\0xst07qal5-{0}-06098lyss8-06098lyss8.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\bhhec69cy4-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\ss20hhdbr0-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\b11n4fcdph-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\0r0otsf8ox-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\gzh3pksgzw-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\tgoy0l72uy-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\orr0vmnaka-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\8lxwih0tri-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\f3twj5ym46-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\3nno83u12c-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\hzd1ev8u9t-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\bi7gp1s9bw-{0}-493y06b0oq-493y06b0oq.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\fc197ezlo4-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\qojx5ogv9u-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\dyxg7n785h-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\8o0hf04ahx-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\ihhox7eqj8-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\8bjlveipz5-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\00893nrml0-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\dh872emis1-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\gammvup5ln-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\esolmcxbcm-{0}-47otxtyo56-47otxtyo56.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\n9dwg2lle8-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\rrypckfd7u-{0}-356vix0kms-356vix0kms.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\owqtn2kyu4-{0}-83jwlth58m-83jwlth58m.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\hr7spq2kgu-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\ex65iffxml-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\cm8gqgp7j5-{0}-ag7o75518u-ag7o75518u.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\thc34hwnkl-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\7fwaywswtu-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\fnwboq6h51-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\q4fsxpsfda-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\b0b4sknm2y-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\7mnl3umzsq-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\zz0kbyf5sn-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\3zjfdfy2hj-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\da8atgev4o-{0}-n9difgx9bq-n9difgx9bq.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\compressed\idpyw4s8si-{0}-n9difgx9bq-n9difgx9bq.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\staticwebassets.build.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\staticwebassets.development.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\swae.build.ex.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\StudentP.AE045EF4.Up2Date
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\StudentPortal_Middleware.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\refint\StudentPortal_Middleware.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\StudentPortal_Middleware.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\StudentPortal_Middleware.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\StudentPortal_Middleware\obj\Debug\net9.0\ref\StudentPortal_Middleware.dll
