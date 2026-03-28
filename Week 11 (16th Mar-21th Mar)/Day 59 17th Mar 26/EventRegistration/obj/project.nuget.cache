@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ON4LJrkb44E=",
+  "success": true,
+  "projectFilePath": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 59 17th Mar 26\\EventRegistration\\EventRegistration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Annie\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.13\\microsoft.windowsdesktop.app.ref.9.0.13.nupkg.sha512",
+    "C:\\Users\\Annie\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.13\\microsoft.netcore.app.ref.9.0.13.nupkg.sha512",
+    "C:\\Users\\Annie\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.13\\microsoft.aspnetcore.app.ref.9.0.13.nupkg.sha512",
+    "C:\\Users\\Annie\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.13\\microsoft.netcore.app.host.win-x64.9.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

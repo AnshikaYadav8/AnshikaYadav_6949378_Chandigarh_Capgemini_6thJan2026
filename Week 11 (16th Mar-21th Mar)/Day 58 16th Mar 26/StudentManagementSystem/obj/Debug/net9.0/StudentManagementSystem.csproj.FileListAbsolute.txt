@@ -1,0 +1,643 @@
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\appsettings.Development.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\appsettings.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\StudentManagementSystem.staticwebassets.runtime.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\StudentManagementSystem.staticwebassets.endpoints.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\StudentManagementSystem.exe
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\StudentManagementSystem.deps.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\StudentManagementSystem.runtimeconfig.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\StudentManagementSystem.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\StudentManagementSystem.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Humanizer.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.Build.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.Build.Tasks.Core.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.Build.Utilities.Core.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.VisualStudio.Setup.Configuration.Interop.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\NuGet.Common.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\NuGet.Configuration.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\NuGet.Frameworks.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\NuGet.LibraryModel.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\NuGet.Packaging.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\NuGet.ProjectModel.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\NuGet.Protocol.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\NuGet.Versioning.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\System.CodeDom.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\System.Formats.Asn1.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\System.Resources.Extensions.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\System.Text.Json.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\af\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\ar\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\az\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\bg\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\cs\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\da\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\de\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\el\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\es\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\fa\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\fr\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\he\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\hr\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\hu\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\hy\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\id\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\is\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\it\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\ja\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\ku\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\lv\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\mt\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\nb\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\nl\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\pl\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\pt\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\ro\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\ru\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\sk\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\sl\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\sr\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\sv\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\tr\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\uk\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\vi\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\StudentManagementSystem.csproj.AssemblyReference.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\StudentManagementSystem.AssemblyInfoInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\StudentManagementSystem.AssemblyInfo.cs
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\StudentManagementSystem.csproj.CoreCompileInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\StudentManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\StudentManagementSystem.RazorAssemblyInfo.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\StudentManagementSystem.RazorAssemblyInfo.cs
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\StudentManagementSystem.sourcelink.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\scopedcss\bundle\StudentManagementSystem.styles.css
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\scopedcss\projectbundle\StudentManagementSystem.bundle.scp.css
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\igh2wddjy1-b9sayid5wm.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\9qfj6ja3qw-61n19gt1b8.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\ud4jxfrf4p-xtxxf3hu2r.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\v4zttvgv2k-bqjiyaj88i.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\x2tziawmxl-c2jlpeoesf.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\0aehpb69kj-erw9l3u2r3.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\qszp0vplah-aexeepp0ev.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\tzdvyxeqek-d7shbmvgxk.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\qf0k17e8uw-ausgxo2sd3.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\c7lnko5h54-k8d9w2qqmf.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\tzq6vdr4w1-cosvhxvwiu.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\30xb68t098-ub07r2b239.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\xp001y5mq8-fvhpjtyr6v.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\erbid5s5sa-b7pk76d08c.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\eja7l17mfg-fsbi9cje9m.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\ad2stg7y1o-rzd6atqjts.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\ahw8wibulr-ee0r1s7dh0.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\k4uxd7d5ce-dxx9fxp4il.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\hgsafmxcwt-jd9uben2k1.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\ck76fkpqyt-khv3u5hwcm.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\75oyz3ttl4-r4e9w2rdcm.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\zss4vhgtos-lcd1t2u6c8.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\ve1objkoo1-c2oey78nd0.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\ggpd8pz1xa-tdbxkamptv.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\mnn908lvb1-j5mq2jizvt.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\7xeu7r90y9-06098lyss8.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\q0urpcd163-nvvlpmu67g.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\sbiosjwjeu-s35ty4nyc5.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\49osdhmqbp-pj5nd1wqec.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\64yayt1sm5-46ein0sx1k.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\p5yhjwwppl-v0zj4ognzu.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\y9n1okdk4m-37tfw0ft22.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\wld43s3hzp-hrwsygsryq.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\jaritrtfop-pk9g2wxc8p.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\8wjrx054ws-ft3s53vfgj.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\mipvge70vw-6cfz1n2cew.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\ox5gnnsbr9-6pdc2jztkx.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\a7r797bpv4-493y06b0oq.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\gebcqy7h1d-iovd86k7lj.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\jno9y7kp8u-vr1egmr9el.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\6d2uacbhmr-kbrnm935zg.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\chrl4cb34t-jj8uyg4cgr.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\cwx20shcyb-y7v9cxd14o.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\mjegrc9our-notf2xhcfb.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\8kd2ktt765-h1s4sie4z3.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\ho5ska52w4-63fj8s7r0e.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\ifcuq4ek4g-0j3bgjxly4.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\gz8suda9eb-47otxtyo56.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\fkae3oahu0-4v8eqarkd7.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\k6uawjw1oe-356vix0kms.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\b0ew2gl5th-83jwlth58m.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\9gy0tb711l-mrlpezrjn3.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\69mb9xgt2g-lzl9nlhx6b.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\172sdrqpvt-ag7o75518u.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\jd01rwdtjc-x0q3zqp4vz.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\mvhesy6xsj-0i3buxo5is.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\qobf8c26cj-o1o13a6vjx.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\jfpmh2178c-ttgo8qnofa.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\yzbjneapkx-2z0ns9nrw6.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\9cl6nn3xut-muycvpuwrr.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\qgs4u85d12-87fc7y1x7t.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\ulztox61g2-mlv21k5csn.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\vi3o4aukey-7cetiexh1r.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\compressed\v222zl30qr-7cetiexh1r.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\staticwebassets.build.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\staticwebassets.development.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\StudentM.D74F523C.Up2Date
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\StudentManagementSystem.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\refint\StudentManagementSystem.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\StudentManagementSystem.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\StudentManagementSystem.genruntimeconfig.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\StudentManagementSystem\obj\Debug\net9.0\ref\StudentManagementSystem.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\appsettings.Development.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\appsettings.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\StudentManagementSystem.staticwebassets.runtime.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\StudentManagementSystem.staticwebassets.endpoints.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\StudentManagementSystem.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\StudentManagementSystem.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\StudentManagementSystem.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\StudentManagementSystem.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\StudentManagementSystem.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Humanizer.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.Build.Tasks.Core.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.Build.Utilities.Core.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.VisualStudio.Setup.Configuration.Interop.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\NuGet.Common.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\System.CodeDom.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\System.Resources.Extensions.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\StudentManagementSystem.csproj.AssemblyReference.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\StudentManagementSystem.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\StudentManagementSystem.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\StudentManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\StudentManagementSystem.RazorAssemblyInfo.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\StudentManagementSystem.RazorAssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\StudentManagementSystem.sourcelink.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\scopedcss\bundle\StudentManagementSystem.styles.css
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\scopedcss\projectbundle\StudentManagementSystem.bundle.scp.css
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\6tjizv99g7-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\dfxarta68e-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\2ks43q5myy-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\02tmapkftl-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\4hootfeejm-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\7wbtrnigm9-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\1f6r9t2was-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\brtvi4ap0l-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\pxbt5dn3nc-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\sxxjgan8zk-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\149tbq9ob1-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\rzkz967qyj-{0}-ub07r2b239-ub07r2b239.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\2exmzgs50m-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\kvpksajfw1-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\idquwqo8cg-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\d9n3esf46r-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\7ofhp59eu9-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\y7pn2luacp-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\dvaxhw1uxr-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\9xbs6zwzx7-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\bhly10kpov-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\wg4ybyjwwv-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\hdccp1i1bj-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\09ydt0pr2g-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\5mt6k0m686-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\b66u1trx92-{0}-06098lyss8-06098lyss8.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\4ltskd6xbk-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\29ds5e2bsn-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\c5i0g0uong-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\xx1i8abrd1-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\yqdau6hbyh-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\ajipbv1rbw-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\vq542foqbw-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\35zcojaa91-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\6bwr6gi9oh-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\dxtsles5cx-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\0iiohi55g0-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\19uau3pi8s-{0}-493y06b0oq-493y06b0oq.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\chfb57c4kx-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\d73pgll0vt-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\qwb2md98yy-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\hglcpd5wem-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\p4w2h59cow-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\spinh2tihn-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\6afq833fi7-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\yja6m9vrzh-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\2chjw08o5a-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\5vu2dwazbt-{0}-47otxtyo56-47otxtyo56.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\e3v3mpuiag-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\ww1bvvso0h-{0}-356vix0kms-356vix0kms.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\y3ozewxswx-{0}-83jwlth58m-83jwlth58m.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\weu9fxio0f-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\fd0wgxoon7-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\shqr02bnpy-{0}-ag7o75518u-ag7o75518u.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\r664iqa4r7-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\8nttjw5i97-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\39f966zeuw-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\l0s813w20t-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\ejhv1u8wc1-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\ultq7eyfvh-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\qz913kg33h-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\vj0bbefowu-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\262i5xxs7v-{0}-m7lw9bnvjx-m7lw9bnvjx.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\compressed\8kuj8s0nqn-{0}-m7lw9bnvjx-m7lw9bnvjx.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\staticwebassets.build.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\staticwebassets.development.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\swae.build.ex.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\StudentM.D74F523C.Up2Date
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\StudentManagementSystem.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\refint\StudentManagementSystem.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\StudentManagementSystem.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\StudentManagementSystem.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\StudentManagementSystem\obj\Debug\net9.0\ref\StudentManagementSystem.dll

@@ -1,0 +1,392 @@
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\appsettings.Development.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\appsettings.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\EmployeePortal.staticwebassets.runtime.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\EmployeePortal.staticwebassets.endpoints.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\EmployeePortal.exe
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\EmployeePortal.deps.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\EmployeePortal.runtimeconfig.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\EmployeePortal.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\EmployeePortal.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\Humanizer.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\System.CodeDom.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\System.Text.Json.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\EmployeePortal.csproj.AssemblyReference.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\EmployeePortal.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\EmployeePortal.AssemblyInfoInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\EmployeePortal.AssemblyInfo.cs
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\EmployeePortal.csproj.CoreCompileInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\EmployeePortal.MvcApplicationPartsAssemblyInfo.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\EmployeePortal.RazorAssemblyInfo.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\EmployeePortal.RazorAssemblyInfo.cs
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\EmployeePortal.sourcelink.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\scopedcss\bundle\EmployeePortal.styles.css
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\scopedcss\projectbundle\EmployeePortal.bundle.scp.css
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\0rz8v6mduv-b9sayid5wm.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\2oije9i7h0-61n19gt1b8.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\94csa3zuaq-xtxxf3hu2r.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\b6g37476x0-bqjiyaj88i.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\rxyu9vzqbe-c2jlpeoesf.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\vhqfyz990x-erw9l3u2r3.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\iwi65r6uvz-aexeepp0ev.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\0ktsv9ia0i-d7shbmvgxk.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\vgczpongsk-ausgxo2sd3.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\h6okastqdl-k8d9w2qqmf.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\p5kijjboxo-cosvhxvwiu.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\cp39yjrwcm-ub07r2b239.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\z65ag5r21k-fvhpjtyr6v.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\6kc62u3w7j-b7pk76d08c.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\uqjz38gunl-fsbi9cje9m.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\e1lxuvrum1-rzd6atqjts.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\hth2o7q5t2-ee0r1s7dh0.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\16889jikgc-dxx9fxp4il.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\b8otsat7qg-jd9uben2k1.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\u5oxplsvgi-khv3u5hwcm.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\sa6c7cmgb3-r4e9w2rdcm.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\adt6un7v9l-lcd1t2u6c8.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\qhv619wv6p-c2oey78nd0.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\pshzv2mjin-tdbxkamptv.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\xk2vzluba3-j5mq2jizvt.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\zuidwna6rj-06098lyss8.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\o7t31tkb0j-nvvlpmu67g.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\k8z35gvswl-s35ty4nyc5.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\bc20banqvt-pj5nd1wqec.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\csl9xsfwy2-46ein0sx1k.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\d6wtax8cw4-v0zj4ognzu.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\iio7j84ngx-37tfw0ft22.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\4w5vdb7z0w-hrwsygsryq.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\jyep8628tw-pk9g2wxc8p.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\6ywfruk1wj-ft3s53vfgj.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\arsbfzkuf0-6cfz1n2cew.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\tvnhscnjyg-6pdc2jztkx.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\a1fgzfsrw5-493y06b0oq.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\dhj0mz8qm0-iovd86k7lj.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\8neftwqpfu-vr1egmr9el.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\7cvaqvkked-kbrnm935zg.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\yy6ccvbvvc-jj8uyg4cgr.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\mv4tf8e4pm-y7v9cxd14o.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\2jmrr62zch-notf2xhcfb.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\dyho8fssa0-h1s4sie4z3.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\jwvpoo0t6g-63fj8s7r0e.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\yuym6gj2yp-0j3bgjxly4.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\zxnh8f0a4r-47otxtyo56.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\zc1vmw8u0b-4v8eqarkd7.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\0fqk52rxjb-356vix0kms.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\ood45qmx6m-83jwlth58m.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\t3nce6bd4h-mrlpezrjn3.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\e25e4gatce-lzl9nlhx6b.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\dxx7nvipgt-ag7o75518u.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\xryecqudtb-x0q3zqp4vz.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\rp0gvwuppk-0i3buxo5is.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\nyy12320h6-o1o13a6vjx.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\9378ufus47-ttgo8qnofa.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\qdnxp8pz2n-2z0ns9nrw6.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\qgad84g2i9-muycvpuwrr.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\l7atvpv8fe-87fc7y1x7t.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\78h6mdptnw-mlv21k5csn.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\1j1wun5zyd-eorjnndryx.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\compressed\u62rqzm2e1-eorjnndryx.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\staticwebassets.build.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\staticwebassets.development.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\Employee.A3D96D35.Up2Date
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\EmployeePortal.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\refint\EmployeePortal.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\EmployeePortal.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\EmployeePortal.genruntimeconfig.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week11(16th-21st March)\16march\EmployeePortal\obj\Debug\net9.0\ref\EmployeePortal.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\appsettings.Development.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\appsettings.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\EmployeePortal.staticwebassets.runtime.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\EmployeePortal.staticwebassets.endpoints.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\EmployeePortal.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\EmployeePortal.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\EmployeePortal.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\EmployeePortal.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\EmployeePortal.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\Humanizer.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\System.CodeDom.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\EmployeePortal.csproj.AssemblyReference.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\EmployeePortal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\EmployeePortal.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\EmployeePortal.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\EmployeePortal.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\EmployeePortal.MvcApplicationPartsAssemblyInfo.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\EmployeePortal.RazorAssemblyInfo.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\EmployeePortal.RazorAssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\EmployeePortal.sourcelink.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\scopedcss\bundle\EmployeePortal.styles.css
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\scopedcss\projectbundle\EmployeePortal.bundle.scp.css
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\gsut9itx8a-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\wsaxbujozf-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\ky774c4rpn-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\wxs1u3m3d2-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\cyf27kkt1w-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\7jzpw5ky4s-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\zcvo1jdm2k-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\0zhvi7p0ad-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\7vn4wkwkes-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\z4taxuhzlk-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\wmatrcjp3q-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\3jlm8odtlr-{0}-ub07r2b239-ub07r2b239.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\q9d4ko6ygc-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\uv7e1302te-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\ps93fjkwsb-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\sdcdssiiiq-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\i0fg0uw0s6-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\7oiuj0cspy-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\0nk5uwxx6a-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\o2rsg1nx7p-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\u6zq6rece8-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\28jqk6edto-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\vy03iu4u2e-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\p39xm8fq5m-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\tumfs3s2ee-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\obn1k7zxrg-{0}-06098lyss8-06098lyss8.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\q93xjaj5fk-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\2fpsrqb23v-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\16eyrkmjeh-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\77djww05k1-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\8any2zvi0x-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\xuyxrtomwt-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\to8vsdd48s-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\7uyw3w8278-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\13pkthdegh-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\61quiya7nc-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\fwmry4o1k2-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\0gtif1mj9j-{0}-493y06b0oq-493y06b0oq.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\713k209qac-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\7xgazut93r-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\0ajdog7vu9-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\tqz03tc5of-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\q53nkciwd6-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\6t8d864k1f-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\kpwybduz43-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\3sh8842o97-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\5fydrkm3t1-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\memesfleyt-{0}-47otxtyo56-47otxtyo56.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\eneq12e9mx-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\j7yzt2zqqv-{0}-356vix0kms-356vix0kms.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\1cjsobd6ln-{0}-83jwlth58m-83jwlth58m.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\jv20ygx62i-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\7frhikiwo0-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\oln8usdh6q-{0}-ag7o75518u-ag7o75518u.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\ryss0ihn4i-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\gukj4ohjqm-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\5kn1sznpz8-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\5rkrlgy6dg-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\v4umfiqmux-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\kk357lttya-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\ulzwxj6rnh-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\4fl00vjxdq-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\t96ximb0ff-{0}-3ca1b90kk8-3ca1b90kk8.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\compressed\x0dpvuiang-{0}-3ca1b90kk8-3ca1b90kk8.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\staticwebassets.build.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\staticwebassets.development.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\swae.build.ex.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\Employee.A3D96D35.Up2Date
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\EmployeePortal.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\refint\EmployeePortal.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\EmployeePortal.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\EmployeePortal.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 11 (16th Mar-21th Mar)\Day 58 16th Mar 26\EmployeePortal\obj\Debug\net9.0\ref\EmployeePortal.dll

@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 58 16th Mar 26\\SessionBasedLoginSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6ACECF3-632B-486D-A940-D458CCA7BE2E}|SessionBasedLoginSystem.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 11 (16th mar-21th mar)\\day 58 16th mar 26\\sessionbasedloginsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6ACECF3-632B-486D-A940-D458CCA7BE2E}|SessionBasedLoginSystem.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6ACECF3-632B-486D-A940-D458CCA7BE2E}|SessionBasedLoginSystem.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 11 (16th mar-21th mar)\\day 58 16th mar 26\\sessionbasedloginsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6ACECF3-632B-486D-A940-D458CCA7BE2E}|SessionBasedLoginSystem.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6ACECF3-632B-486D-A940-D458CCA7BE2E}|SessionBasedLoginSystem.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 11 (16th mar-21th mar)\\day 58 16th mar 26\\sessionbasedloginsystem\\views\\account\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6ACECF3-632B-486D-A940-D458CCA7BE2E}|SessionBasedLoginSystem.csproj|solutionrelative:views\\account\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6ACECF3-632B-486D-A940-D458CCA7BE2E}|SessionBasedLoginSystem.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 11 (16th mar-21th mar)\\day 58 16th mar 26\\sessionbasedloginsystem\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6ACECF3-632B-486D-A940-D458CCA7BE2E}|SessionBasedLoginSystem.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6ACECF3-632B-486D-A940-D458CCA7BE2E}|SessionBasedLoginSystem.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 11 (16th mar-21th mar)\\day 58 16th mar 26\\sessionbasedloginsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6ACECF3-632B-486D-A940-D458CCA7BE2E}|SessionBasedLoginSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6ACECF3-632B-486D-A940-D458CCA7BE2E}|SessionBasedLoginSystem.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 11 (16th mar-21th mar)\\day 58 16th mar 26\\sessionbasedloginsystem\\sessionbasedloginsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B6ACECF3-632B-486D-A940-D458CCA7BE2E}|SessionBasedLoginSystem.csproj|solutionrelative:sessionbasedloginsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 58 16th Mar 26\\SessionBasedLoginSystem\\Views\\Account\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Dashboard.cshtml",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 58 16th Mar 26\\SessionBasedLoginSystem\\Views\\Account\\Dashboard.cshtml",
+              "RelativeToolTip": "Views\\Account\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T06:31:37.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 58 16th Mar 26\\SessionBasedLoginSystem\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 58 16th Mar 26\\SessionBasedLoginSystem\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T06:31:37.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 58 16th Mar 26\\SessionBasedLoginSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 58 16th Mar 26\\SessionBasedLoginSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T06:31:37.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 58 16th Mar 26\\SessionBasedLoginSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 58 16th Mar 26\\SessionBasedLoginSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T06:31:37.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 58 16th Mar 26\\SessionBasedLoginSystem\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 58 16th Mar 26\\SessionBasedLoginSystem\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T06:31:37.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SessionBasedLoginSystem.csproj",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 58 16th Mar 26\\SessionBasedLoginSystem\\SessionBasedLoginSystem.csproj",
+              "RelativeDocumentMoniker": "SessionBasedLoginSystem.csproj",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 58 16th Mar 26\\SessionBasedLoginSystem\\SessionBasedLoginSystem.csproj",
+              "RelativeToolTip": "SessionBasedLoginSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-17T06:31:37.446Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

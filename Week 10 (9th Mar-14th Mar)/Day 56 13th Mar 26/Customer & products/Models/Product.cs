@@ -1,5 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
+using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
 
 namespace Customer___products.Models
 {
@@ -11,6 +12,7 @@ namespace Customer___products.Models
         [Required]
         public string Name { get; set; }
         public decimal Price { get; set; }
+        [ValidateNever]
         public ICollection<Order> Orders { get; set; }
     }
 }

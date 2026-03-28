@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 60 18th Mar 26\\OnlineProductCatelog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{903353D3-5775-8547-74E9-92112939A15A}|OnlineProductCatelog.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 11 (16th mar-21th mar)\\day 60 18th mar 26\\onlineproductcatelog\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{903353D3-5775-8547-74E9-92112939A15A}|OnlineProductCatelog.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{903353D3-5775-8547-74E9-92112939A15A}|OnlineProductCatelog.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 11 (16th mar-21th mar)\\day 60 18th mar 26\\onlineproductcatelog\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{903353D3-5775-8547-74E9-92112939A15A}|OnlineProductCatelog.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{903353D3-5775-8547-74E9-92112939A15A}|OnlineProductCatelog.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 11 (16th mar-21th mar)\\day 60 18th mar 26\\onlineproductcatelog\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{903353D3-5775-8547-74E9-92112939A15A}|OnlineProductCatelog.csproj|solutionrelative:views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{903353D3-5775-8547-74E9-92112939A15A}|OnlineProductCatelog.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 11 (16th mar-21th mar)\\day 60 18th mar 26\\onlineproductcatelog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{903353D3-5775-8547-74E9-92112939A15A}|OnlineProductCatelog.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{903353D3-5775-8547-74E9-92112939A15A}|OnlineProductCatelog.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 11 (16th mar-21th mar)\\day 60 18th mar 26\\onlineproductcatelog\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{903353D3-5775-8547-74E9-92112939A15A}|OnlineProductCatelog.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{903353D3-5775-8547-74E9-92112939A15A}|OnlineProductCatelog.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 11 (16th mar-21th mar)\\day 60 18th mar 26\\onlineproductcatelog\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{903353D3-5775-8547-74E9-92112939A15A}|OnlineProductCatelog.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 60 18th Mar 26\\OnlineProductCatelog\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 60 18th Mar 26\\OnlineProductCatelog\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-25T06:03:25.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 60 18th Mar 26\\OnlineProductCatelog\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 60 18th Mar 26\\OnlineProductCatelog\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-25T06:02:31.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 60 18th Mar 26\\OnlineProductCatelog\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 60 18th Mar 26\\OnlineProductCatelog\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-25T06:01:14.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 60 18th Mar 26\\OnlineProductCatelog\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 60 18th Mar 26\\OnlineProductCatelog\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:00:49.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 60 18th Mar 26\\OnlineProductCatelog\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 60 18th Mar 26\\OnlineProductCatelog\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T05:59:49.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 60 18th Mar 26\\OnlineProductCatelog\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 60 18th Mar 26\\OnlineProductCatelog\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T05:58:26.933Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

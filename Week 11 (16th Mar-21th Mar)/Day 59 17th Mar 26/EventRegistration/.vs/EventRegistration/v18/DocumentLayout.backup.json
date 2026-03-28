@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 59 17th Mar 26\\EventRegistration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 11 (16th mar-21th mar)\\day 59 17th mar 26\\eventregistration\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 11 (16th mar-21th mar)\\day 59 17th mar 26\\eventregistration\\pages\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|solutionrelative:pages\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 11 (16th mar-21th mar)\\day 59 17th mar 26\\eventregistration\\pages\\events\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|solutionrelative:pages\\events\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 11 (16th mar-21th mar)\\day 59 17th mar 26\\eventregistration\\pages\\events\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|solutionrelative:pages\\events\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 11 (16th mar-21th mar)\\day 59 17th mar 26\\eventregistration\\pages\\events\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|solutionrelative:pages\\events\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 11 (16th mar-21th mar)\\day 59 17th mar 26\\eventregistration\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 11 (16th mar-21th mar)\\day 59 17th mar 26\\eventregistration\\helpers\\sessionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|solutionrelative:helpers\\sessionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 11 (16th mar-21th mar)\\day 59 17th mar 26\\eventregistration\\data\\fakedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|solutionrelative:data\\fakedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 11 (16th mar-21th mar)\\day 59 17th mar 26\\eventregistration\\eventregistration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|solutionrelative:eventregistration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 11 (16th mar-21th mar)\\day 59 17th mar 26\\eventregistration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 11 (16th mar-21th mar)\\day 59 17th mar 26\\eventregistration\\models\\eventregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|solutionrelative:models\\eventregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 59 17th Mar 26\\EventRegistration\\Pages\\Events\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Events\\Index.cshtml.cs",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 59 17th Mar 26\\EventRegistration\\Pages\\Events\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Events\\Index.cshtml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:54:48.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 59 17th Mar 26\\EventRegistration\\Pages\\Events\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Events\\Index.cshtml",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 59 17th Mar 26\\EventRegistration\\Pages\\Events\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Events\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-25T06:54:48.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 59 17th Mar 26\\EventRegistration\\Pages\\Events\\Register.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Events\\Register.cshtml",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 59 17th Mar 26\\EventRegistration\\Pages\\Events\\Register.cshtml",
+              "RelativeToolTip": "Pages\\Events\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-25T06:54:48.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 59 17th Mar 26\\EventRegistration\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 59 17th Mar 26\\EventRegistration\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-25T06:54:48.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 59 17th Mar 26\\EventRegistration\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 59 17th Mar 26\\EventRegistration\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-25T06:54:48.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 59 17th Mar 26\\EventRegistration\\Pages\\Events\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Events\\Register.cshtml.cs",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 59 17th Mar 26\\EventRegistration\\Pages\\Events\\Register.cshtml.cs",
+              "RelativeToolTip": "Pages\\Events\\Register.cshtml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:54:48.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SessionHelper.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 59 17th Mar 26\\EventRegistration\\Helpers\\SessionHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\SessionHelper.cs",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 59 17th Mar 26\\EventRegistration\\Helpers\\SessionHelper.cs",
+              "RelativeToolTip": "Helpers\\SessionHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:54:48.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FakeDatabase.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 59 17th Mar 26\\EventRegistration\\Data\\FakeDatabase.cs",
+              "RelativeDocumentMoniker": "Data\\FakeDatabase.cs",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 59 17th Mar 26\\EventRegistration\\Data\\FakeDatabase.cs",
+              "RelativeToolTip": "Data\\FakeDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:54:48.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 59 17th Mar 26\\EventRegistration\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 59 17th Mar 26\\EventRegistration\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:54:48.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EventRegister.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 59 17th Mar 26\\EventRegistration\\Models\\EventRegister.cs",
+              "RelativeDocumentMoniker": "Models\\EventRegister.cs",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 59 17th Mar 26\\EventRegistration\\Models\\EventRegister.cs",
+              "RelativeToolTip": "Models\\EventRegister.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:54:48.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventRegistration.csproj",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 59 17th Mar 26\\EventRegistration\\EventRegistration.csproj",
+              "RelativeDocumentMoniker": "EventRegistration.csproj",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 11 (16th Mar-21th Mar)\\Day 59 17th Mar 26\\EventRegistration\\EventRegistration.csproj",
+              "RelativeToolTip": "EventRegistration.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-25T06:54:48.436Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

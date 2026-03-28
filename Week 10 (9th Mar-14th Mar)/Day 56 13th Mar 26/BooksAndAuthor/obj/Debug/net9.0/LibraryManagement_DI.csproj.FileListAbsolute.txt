@@ -1,0 +1,590 @@
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\LibraryManagement_DI.csproj.AssemblyReference.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\LibraryManagement_DI.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\LibraryManagement_DI.AssemblyInfoInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\LibraryManagement_DI.AssemblyInfo.cs
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\LibraryManagement_DI.csproj.CoreCompileInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\LibraryManagement_DI.MvcApplicationPartsAssemblyInfo.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\LibraryManagement_DI.RazorAssemblyInfo.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\LibraryManagement_DI.RazorAssemblyInfo.cs
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\LibraryManagement_DI.sourcelink.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\appsettings.Development.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\appsettings.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\LibraryManagement_DI.staticwebassets.runtime.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\LibraryManagement_DI.staticwebassets.endpoints.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\LibraryManagement_DI.exe
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\LibraryManagement_DI.deps.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\LibraryManagement_DI.runtimeconfig.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\LibraryManagement_DI.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\LibraryManagement_DI.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\Humanizer.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\System.CodeDom.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\System.Text.Json.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\scopedcss\bundle\LibraryManagement_DI.styles.css
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\scopedcss\projectbundle\LibraryManagement_DI.bundle.scp.css
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\v11czr2zr3-b9sayid5wm.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\myddwotwgt-61n19gt1b8.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\1bxackss4d-xtxxf3hu2r.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\c23j372dyf-bqjiyaj88i.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\avxmarb2ai-c2jlpeoesf.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\6bq03yeaz8-erw9l3u2r3.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\r25zsi0ptl-aexeepp0ev.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\qzbiox2bi4-d7shbmvgxk.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\qds0suwa66-ausgxo2sd3.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\tu8d7xadbz-k8d9w2qqmf.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\b0mmstj8cl-cosvhxvwiu.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\3jbbmax3v4-ub07r2b239.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\rwvt4xo52a-fvhpjtyr6v.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\763kvldiew-b7pk76d08c.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\cixynr1q2l-fsbi9cje9m.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\ryp67b8uew-rzd6atqjts.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\sp47wtoic9-ee0r1s7dh0.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\4zmhwxjojt-dxx9fxp4il.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\tlxocick2w-jd9uben2k1.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\z8duidvsq1-khv3u5hwcm.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\1k1b6hpeii-r4e9w2rdcm.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\doaww8vzad-lcd1t2u6c8.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\vsngxyevpw-c2oey78nd0.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\fl470zagc1-tdbxkamptv.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\bmphzbou5n-j5mq2jizvt.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\48enxr9pew-06098lyss8.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\nx97gvuxuy-nvvlpmu67g.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\aii9u7w6dp-s35ty4nyc5.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\teix39x0gb-pj5nd1wqec.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\3p785x0i0h-46ein0sx1k.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\hszltply73-v0zj4ognzu.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\50tqi4z2ba-37tfw0ft22.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\t0api7ehj7-hrwsygsryq.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\fen0aimch2-pk9g2wxc8p.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\n88n43cfhk-ft3s53vfgj.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\s5509dmpaw-6cfz1n2cew.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\gwewdgav1g-6pdc2jztkx.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\0x6ial8np1-493y06b0oq.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\vtumd9z0k3-iovd86k7lj.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\de9e3d3fci-vr1egmr9el.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\rc7m31zcyx-kbrnm935zg.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\8yhvw6j1zt-jj8uyg4cgr.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\qdxzdfohqx-y7v9cxd14o.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\g2s6d8o25l-notf2xhcfb.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\5b96wwznyw-h1s4sie4z3.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\ry7bf89z76-63fj8s7r0e.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\c7250j0l18-0j3bgjxly4.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\5tag68nrk9-47otxtyo56.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\8pwxe58pff-4v8eqarkd7.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\qfrbfqvq6f-356vix0kms.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\2wvri11jd1-83jwlth58m.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\vy4542hyeb-mrlpezrjn3.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\du1io3zhce-lzl9nlhx6b.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\dul3bf29fk-ag7o75518u.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\2xybv7edlr-x0q3zqp4vz.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\rrv8e1rmsm-0i3buxo5is.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\4nmyxjbxlm-o1o13a6vjx.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\bdmkd4fl4s-ttgo8qnofa.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\vtoqpfu695-2z0ns9nrw6.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\pb64hv00ni-muycvpuwrr.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\hmby7xmocp-87fc7y1x7t.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\jmi14408wk-mlv21k5csn.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\qi1ymbao3c-ef6hty2sj6.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\compressed\h4iaww6ijs-ef6hty2sj6.gz
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\staticwebassets.build.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\staticwebassets.development.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\LibraryM.21A6D6F2.Up2Date
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\LibraryManagement_DI.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\refint\LibraryManagement_DI.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\LibraryManagement_DI.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\LibraryManagement_DI.genruntimeconfig.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week10(9th-`14th March)\12 march\LibraryManagement_DI\obj\Debug\net9.0\ref\LibraryManagement_DI.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\appsettings.Development.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\appsettings.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\LibraryManagement_DI.staticwebassets.runtime.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\LibraryManagement_DI.staticwebassets.endpoints.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\LibraryManagement_DI.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\LibraryManagement_DI.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\LibraryManagement_DI.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\LibraryManagement_DI.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\LibraryManagement_DI.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\Humanizer.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\System.CodeDom.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\System.Text.Json.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\LibraryManagement_DI.csproj.AssemblyReference.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\LibraryManagement_DI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\LibraryManagement_DI.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\LibraryManagement_DI.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\LibraryManagement_DI.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\LibraryManagement_DI.MvcApplicationPartsAssemblyInfo.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\LibraryManagement_DI.RazorAssemblyInfo.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\LibraryManagement_DI.RazorAssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\LibraryManagement_DI.sourcelink.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\scopedcss\bundle\LibraryManagement_DI.styles.css
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\scopedcss\projectbundle\LibraryManagement_DI.bundle.scp.css
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\9gfntkaqfb-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\y6pry1dmzi-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\hsu2rds0u3-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\x9b1dkdqf4-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\sow898xsn5-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\r179hczg0i-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\3gzmsuyzz0-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\8o5jcxwjuv-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\ujh38chxpp-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\dhlh05djsv-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\b1i9m9lrhn-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\70enxyxk6q-{0}-ub07r2b239-ub07r2b239.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\zhql3op9mk-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\i7ama7xyad-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\pnbf2vyrvt-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\ilyyrgtbe6-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\t1vnwm682i-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\6f3p1qbtgk-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\m04rxrvz5d-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\ejcurbcz7s-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\syw3ccmsm9-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\33rlzinhkp-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\t2t9k48xy1-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\qfrqr9hyyv-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\1n3p2wnbyo-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\5dfn5wrhah-{0}-06098lyss8-06098lyss8.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\00e0nk6uqo-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\k4kjspuu1r-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\ccewojoi9i-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\z3ya0as1u7-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\958hwwcvws-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\16icbr1nk1-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\fnsaanqzab-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\2f5fkuw2pd-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\b6bdme4n3j-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\80uie0hyw8-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\zh8qigbpzm-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\l441yuhw1t-{0}-493y06b0oq-493y06b0oq.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\y191cm21n3-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\rixg6j0iha-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\4q4q8307np-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\6ed56bg4ew-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\6iaks0y0qc-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\9gaeaks9hm-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\ekagea2wpo-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\qxftuynpbe-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\ls1i9ez1jy-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\0lczojyhyh-{0}-47otxtyo56-47otxtyo56.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\0g227p0ban-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\0h8uoayme4-{0}-356vix0kms-356vix0kms.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\oe0ss4u2eb-{0}-83jwlth58m-83jwlth58m.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\yuqmhriikx-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\hyira7pf7a-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\76dgp39du6-{0}-ag7o75518u-ag7o75518u.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\6b147f0yk5-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\bifr3zwge4-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\ilp8gx26t2-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\gk5oc1vcf4-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\lw9b5pus68-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\dlojdxukyq-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\axjxjfnujy-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\nabqsxmcd2-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\z7hrlfz1f2-{0}-r9uic98dry-r9uic98dry.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\compressed\ou68bj3n4b-{0}-r9uic98dry-r9uic98dry.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\staticwebassets.build.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\staticwebassets.development.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\swae.build.ex.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\LibraryM.21A6D6F2.Up2Date
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\LibraryManagement_DI.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\refint\LibraryManagement_DI.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\LibraryManagement_DI.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\LibraryManagement_DI.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 55 12th Mar 26\LibraryManagement_DI\obj\Debug\net9.0\ref\LibraryManagement_DI.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\appsettings.Development.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\appsettings.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\LibraryManagement_DI.staticwebassets.endpoints.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\LibraryManagement_DI.staticwebassets.runtime.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\LibraryManagement_DI.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\LibraryManagement_DI.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\LibraryManagement_DI.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\LibraryManagement_DI.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\LibraryManagement_DI.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\Humanizer.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\System.CodeDom.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\System.Text.Json.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\LibraryManagement_DI.csproj.AssemblyReference.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\LibraryManagement_DI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\LibraryManagement_DI.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\LibraryManagement_DI.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\LibraryManagement_DI.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\LibraryManagement_DI.MvcApplicationPartsAssemblyInfo.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\LibraryManagement_DI.RazorAssemblyInfo.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\LibraryManagement_DI.RazorAssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\LibraryManagement_DI.sourcelink.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\scopedcss\bundle\LibraryManagement_DI.styles.css
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\scopedcss\projectbundle\LibraryManagement_DI.bundle.scp.css
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\9gfntkaqfb-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\y6pry1dmzi-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\hsu2rds0u3-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\x9b1dkdqf4-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\sow898xsn5-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\r179hczg0i-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\3gzmsuyzz0-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\8o5jcxwjuv-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\ujh38chxpp-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\dhlh05djsv-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\b1i9m9lrhn-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\70enxyxk6q-{0}-ub07r2b239-ub07r2b239.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\zhql3op9mk-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\i7ama7xyad-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\pnbf2vyrvt-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\ilyyrgtbe6-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\t1vnwm682i-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\6f3p1qbtgk-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\m04rxrvz5d-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\ejcurbcz7s-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\syw3ccmsm9-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\33rlzinhkp-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\t2t9k48xy1-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\qfrqr9hyyv-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\1n3p2wnbyo-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\5dfn5wrhah-{0}-06098lyss8-06098lyss8.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\00e0nk6uqo-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\k4kjspuu1r-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\ccewojoi9i-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\z3ya0as1u7-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\958hwwcvws-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\16icbr1nk1-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\fnsaanqzab-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\2f5fkuw2pd-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\b6bdme4n3j-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\80uie0hyw8-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\zh8qigbpzm-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\l441yuhw1t-{0}-493y06b0oq-493y06b0oq.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\y191cm21n3-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\rixg6j0iha-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\4q4q8307np-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\6ed56bg4ew-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\6iaks0y0qc-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\9gaeaks9hm-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\ekagea2wpo-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\qxftuynpbe-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\ls1i9ez1jy-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\0lczojyhyh-{0}-47otxtyo56-47otxtyo56.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\0g227p0ban-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\0h8uoayme4-{0}-356vix0kms-356vix0kms.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\oe0ss4u2eb-{0}-83jwlth58m-83jwlth58m.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\yuqmhriikx-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\hyira7pf7a-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\76dgp39du6-{0}-ag7o75518u-ag7o75518u.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\6b147f0yk5-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\bifr3zwge4-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\ilp8gx26t2-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\gk5oc1vcf4-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\lw9b5pus68-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\dlojdxukyq-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\axjxjfnujy-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\nabqsxmcd2-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\z7hrlfz1f2-{0}-r9uic98dry-r9uic98dry.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\compressed\ou68bj3n4b-{0}-r9uic98dry-r9uic98dry.gz
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\staticwebassets.build.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\staticwebassets.development.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\swae.build.ex.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\LibraryM.21A6D6F2.Up2Date
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\LibraryManagement_DI.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\refint\LibraryManagement_DI.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\LibraryManagement_DI.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\LibraryManagement_DI.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 10 (9th Mar-14th Mar)\Day 56 13th Mar 26\Book&Author\obj\Debug\net9.0\ref\LibraryManagement_DI.dll

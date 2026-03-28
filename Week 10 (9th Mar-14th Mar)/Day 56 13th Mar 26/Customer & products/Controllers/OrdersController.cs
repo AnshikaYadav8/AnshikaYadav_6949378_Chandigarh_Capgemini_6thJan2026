@@ -5,55 +5,79 @@ using Microsoft.EntityFrameworkCore;
 
 public class OrdersController : Controller
 {
-    private readonly AppDBContext _context;
+	private readonly AppDBContext _context;
 
-    public OrdersController(AppDBContext context)
-    {
-        _context = context;
-    }
+	public OrdersController(AppDBContext context)
+	{
+		_context = context;
+	}
 
-    public IActionResult Index()
-    {
-        var orders = _context.Orders
-            .Include(o => o.Customer)
-            .Include(o => o.Product)
-            .ToList();
+	// READ
+	public IActionResult Index()
+	{
+		var orders = _context.Orders
+			.Include(o => o.Customer)
+			.Include(o => o.Product)
+			.ToList();
 
-        return View(orders);
-    }
+		return View(orders);
+	}
 
-    public IActionResult Create()
-    {
-        ViewBag.Customers = new SelectList(_context.Customers, "Id", "Name");
-        ViewBag.Products = new SelectList(_context.Products, "Id", "Name");
+	// CREATE
+	public IActionResult Create()
+	{
+		ViewBag.Customers = new SelectList(_context.Customers, "Id", "Name");
+		ViewBag.Products = new SelectList(_context.Products, "Id", "Name");
 
-        return View();
-    }
+		return View();
+	}
 
-    [HttpPost]
-    public IActionResult Create(Order order)
-    {
-        _context.Orders.Add(order);
-        _context.SaveChanges();
-        return RedirectToAction("Index");
-    }
+	[HttpPost]
+	[ValidateAntiForgeryToken]
+	public IActionResult Create(Order order)
+	{
+		if (ModelState.IsValid)
+		{
+			_context.Orders.Add(order);
+			_context.SaveChanges();
+			return RedirectToAction(nameof(Index));
+		}
 
-    public IActionResult Delete(int id)
-    {
-        var order = _context.Orders
-            .Include(o => o.Customer)
-            .Include(o => o.Product)
-            .FirstOrDefault(o => o.Id == id);
+		// Reload dropdowns if validation fails
+		ViewBag.Customers = new SelectList(_context.Customers, "Id", "Name", order.CustomerId);
+		ViewBag.Products = new SelectList(_context.Products, "Id", "Name", order.ProductId);
 
-        return View(order);
-    }
+		return View(order);
+	}
 
-    [HttpPost, ActionName("Delete")]
-    public IActionResult DeleteConfirmed(int id)
-    {
-        var order = _context.Orders.Find(id);
-        _context.Orders.Remove(order);
-        _context.SaveChanges();
-        return RedirectToAction("Index");
-    }
+	// DELETE
+	public IActionResult Delete(int id)
+	{
+		var order = _context.Orders
+			.Include(o => o.Customer)
+			.Include(o => o.Product)
+			.FirstOrDefault(o => o.Id == id);
+
+		if (order == null)
+		{
+			return NotFound();
+		}
+
+		return View(order);
+	}
+
+	[HttpPost, ActionName("Delete")]
+	[ValidateAntiForgeryToken]
+	public IActionResult DeleteConfirmed(int id)
+	{
+		var order = _context.Orders.Find(id);
+
+		if (order != null)
+		{
+			_context.Orders.Remove(order);
+			_context.SaveChanges();
+		}
+
+		return RedirectToAction(nameof(Index));
+	}
 }
